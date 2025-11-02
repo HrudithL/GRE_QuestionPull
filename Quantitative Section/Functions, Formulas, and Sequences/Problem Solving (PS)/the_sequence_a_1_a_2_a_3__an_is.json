@@ -1,0 +1,14 @@
+{
+  "question": "The sequence \\(a_1, a_2, a_3, ....,\\) an is defined by \\(a_n = 9 + a_{n – 1}\\) for each integer n ≥ 2. If \\(a_1 = 11\\), what is the value of \\(a_{35}\\)?\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "If \\(a_1 = 11\\), what is the value of \\(a_{35}\\)?Show: :: OA317\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/the-sequence-a1-a2-a3-an-is-defined-by-an-9-an-10204.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 4,
+  "questions": [
+    {
+      "filename": "if_fx__x__5_and_f2g.json",
+      "url": "https://gre.myprepclub.com/forum/if-f-x-x-5-and-f-2g-19-what-is-the-value-of-f-3-g-10094.html",
+      "question_preview": "If \\(f(x) = x + 5\\) and \\(f(2g) = 19\\), what is the value of \\(f(3 – g)\\)?\n_________________\nSandy\nI",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_fa_b__a2b4_and_fm_n.json",
+      "url": "https://gre.myprepclub.com/forum/if-f-a-b-a2b4-and-f-m-n-5-what-is-the-value-of-f-10193.html",
+      "question_preview": "If \\(f(a, b) = a^2b^4\\), and \\(f(m, n) = 5\\), what is the value of \\(f(3m, 2n)\\)?\n_________________\n",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_hx__3x__2_and_gx.json",
+      "url": "https://gre.myprepclub.com/forum/if-h-x-3x-2-and-g-x-x2-7-and-g-m-29-what-is-10197.html",
+      "question_preview": "If \\(h(x) = |3x| + 2\\) and \\(g(x) = x^2 - 7\\) and \\(g(m) = 29\\), what is the value of \\(h(m)\\)?\n____",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_fx_y__x2yand_fa_b.json",
+      "url": "https://gre.myprepclub.com/forum/if-f-x-y-x2y-and-f-a-b-6-what-is-f-2a-4b-10203.html",
+      "question_preview": "If \\(f(x, y) = x^2y\\)and \\(f(a, b) = 6\\), what is \\(f(2a, 4b)\\)?\n_________________\nSandy\nIf you foun",
+      "question_type": "Unknown"
+    }
+  ]
+}

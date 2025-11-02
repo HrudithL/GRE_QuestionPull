@@ -1,0 +1,48 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 7,
+  "questions": [
+    {
+      "filename": "quantity_a_quantity_b_257_515_athe_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/25-7-vs-10551.html",
+      "question_preview": "Quantity A\nQuantity B\n\\(25^7\\)\n\\(5^{15}\\)\nA)The quantity in Column A is greater.\nB)The quantity in C",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "216__2x3y_x_and_y_are_integers.json",
+      "url": "https://gre.myprepclub.com/forum/216-2-x3-y-x-and-y-are-integers-10552.html",
+      "question_preview": "\\(216 = 2^x3^y\\)\nx and y are integers.\nQuantity A\nQuantity B\nx\ny\nA)The quantity in Column A is great",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_sqrt9sqrt25_sqrt15_athe_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/compare-quantities-10553.html",
+      "question_preview": "Quantity A\nQuantity B\n\\(\\sqrt{9}\\sqrt{25}\\)\n\\(\\sqrt{15}\\)\nA)The quantity in Column A is greater.\nB)T",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "80_is_divisible_by_2x_quantity_a_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/80-is-divisible-by-2-x-10555.html",
+      "question_preview": "80 is divisible by \\(2^x\\).\nQuantity A\nQuantity B\nx\n3\nA)The quantity in Column A is greater.\nB)The q",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_106105_107104_athe_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/10-10556.html",
+      "question_preview": "Quantity A\nQuantity B\n\\(10^6+10^5\\)\n\\(10^7+10^4\\)\nA)The quantity in Column A is greater.\nB)The quant",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "frac103002790010_2310m_quantity_a_quantity_b_m_3_athe.json",
+      "url": "https://gre.myprepclub.com/forum/calculate-the-value-of-m-10557.html",
+      "question_preview": "\\(\\frac{(10^3)(0.027)}{(900)(10^{-2})}=(3)(10^m)\\)\nQuantity A\nQuantity B\nm\n3\nA)The quantity in Colum",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "n__000025_times_104_and_m.json",
+      "url": "https://gre.myprepclub.com/forum/n-0-00025-10-4-and-m-10558.html",
+      "question_preview": "\\(n = 0.00025 \\times 10^4\\) and \\(m = 0.005 \\times 10^2\\)\nQuantity A\nQuantity B\n\\(\\frac{n}{m}\\)\n\\(0.",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

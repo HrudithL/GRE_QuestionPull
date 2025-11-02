@@ -1,0 +1,102 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 16,
+  "questions": [
+    {
+      "filename": "5_is_7_more_than__z_quantity_a.json",
+      "url": "https://gre.myprepclub.com/forum/5-is-7-more-than-z-9332.html",
+      "question_preview": "-5 is 7 more than -z.\nQuantity A\nQuantity B\nz\n-12\nA)The quantity in Column A is greater.\nB)The quant",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__2_quantity_a_quantity_b_x2.json",
+      "url": "https://gre.myprepclub.com/forum/x-2-x2-4x-3-vs-9751.html",
+      "question_preview": "x = 2\nQuantity A\nQuantity B\n\\(x^2 - 4x + 3\\)\n\\(1\\)\nA)The quantity in Column A is greater.\nB)The quan",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "p__300c2___c_c__100.json",
+      "url": "https://gre.myprepclub.com/forum/p-300c2-c-c-9334.html",
+      "question_preview": "\\(p = 300c^2 - c\\)\n\\(c = 100\\)\nQuantity A\nQuantity B\np\n29,000c\nA)The quantity in Column A is greater",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x3__64_quantity_a_quantity_b_x4.json",
+      "url": "https://gre.myprepclub.com/forum/x-9753.html",
+      "question_preview": "\\(-(x)^3 = 64\\)\nQuantity A\nQuantity B\n\\(x^4\\)\n\\(x^5\\)\nA)The quantity in Column A is greater.\nB)The q",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_x__2x.json",
+      "url": "https://gre.myprepclub.com/forum/x-2-x-3-vs-x2-x-9337.html",
+      "question_preview": "Quantity A\nQuantity B\n\\((x + 2)(x - 3)\\)\n\\(x^2 - x - 6\\)\nA)The quantity in Column A is greater.\nB)Th",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "xy__0_quantity_a_quantity_b_2x.json",
+      "url": "https://gre.myprepclub.com/forum/xy-9755.html",
+      "question_preview": "\\(xy > 0\\)\nQuantity A\nQuantity B\n\\((2x - y)(x + 4y)\\)\n\\(2x^2\\) + \\(8xy\\) – \\(4y^2\\)\nA)The quantity i",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x2___2x__0_quantity_a_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/x2-2x-9756.html",
+      "question_preview": "\\(x^2 - 2x = 0\\)\nQuantity A\nQuantity B\n\\(x\\)\n\\(2\\)\nA)The quantity in Column A is greater.\nB)The quan",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_dd2___2d.json",
+      "url": "https://gre.myprepclub.com/forum/d-d2-2d-1-vs-d-d2-2d-9757.html",
+      "question_preview": "Quantity A\nQuantity B\n\\(d(d^2 - 2d + 1)\\)\n\\(d(d^2 - 2d) + 1\\)\nA)The quantity in Column A is greater.",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_xy2zx2z__yz2.json",
+      "url": "https://gre.myprepclub.com/forum/xy2z-x2z-yz2-xy2-vs-x3y2z2-xy3z3-x2y4z-9342.html",
+      "question_preview": "Quantity A\nQuantity B\n\\(xy^2z(x^2z + yz^2 - xy^2)\\)\n\\(x^3y^2z^2 + xy^3z^3 - x^2y^4z\\)\nA)The quantity",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a__2b__4c_and_a_b.json",
+      "url": "https://gre.myprepclub.com/forum/a-2b-4c-and-a-b-and-c-are-integers-9759.html",
+      "question_preview": "a = 2b = 4c and a, b, and c are integers.\nQuantity A\nQuantity B\n\\(a + b\\)\n\\(a + c\\)\nA)The quantity i",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "k__2m__4n_and_k_m.json",
+      "url": "https://gre.myprepclub.com/forum/k-2m-4n-and-k-m-and-n-are-non-negative-integers-9760.html",
+      "question_preview": "k = 2m = 4n and k, m, and n are nonnegative integers.\nQuantity A\nQuantity B\nkm\nkn\nA)The quantity in ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "for_the_positive_integers_a_b_c_and.json",
+      "url": "https://gre.myprepclub.com/forum/for-the-positive-integers-a-b-c-and-d-a-is-half-of-b-wh-9761.html",
+      "question_preview": "For the positive integers a, b, c, and d, a is half of b, which is one-third of c. The value of d is",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "3x__6y__27_x__2y.json",
+      "url": "https://gre.myprepclub.com/forum/3x-6y-27-x-2y-z-9347.html",
+      "question_preview": "3x + 6y = 27\nx + 2y + z = 11\nQuantity A\nQuantity B\nz + 5\nx + 2y - 2\nA)The quantity in Column A is gr",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_neq_b_quantity_a_quantity_b_fraca_bb_a.json",
+      "url": "https://gre.myprepclub.com/forum/a-b-9763.html",
+      "question_preview": "\\(a \\neq b\\)\nQuantity A\nQuantity B\n\\(\\frac{a-b}{b-a}\\)\n1\nA)The quantity in Column A is greater.\nB)Th",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a__fracb2_c__3b_quantity_a.json",
+      "url": "https://gre.myprepclub.com/forum/a-c-3b-9764.html",
+      "question_preview": "\\(a = \\frac{b}{2}\\)\n\\(c = 3b\\)\nQuantity A\nQuantity B\na\nc\nA)The quantity in Column A is greater.\nB)Th",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__y_xy_neq_0_quantity_a.json",
+      "url": "https://gre.myprepclub.com/forum/x-y-xy-9765.html",
+      "question_preview": "\\(x > y\\)\n\\(xy \\neq 0\\)\nQuantity A\nQuantity B\n\\(\\dfrac{x^2}{(y+\\frac{1}{y})}\\)\n\\(\\dfrac{y^2 }{(x+\\fr",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

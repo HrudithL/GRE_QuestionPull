@@ -1,0 +1,12 @@
+{
+  "category": "Numeric Entry (NE)",
+  "total_questions": 1,
+  "questions": [
+    {
+      "filename": "if_x_is_defined_as_the_square_of.json",
+      "url": "https://gre.myprepclub.com/forum/if-x-is-defined-as-the-square-of-one-half-of-x-what-is-the-10198.html",
+      "question_preview": "If \\(*x\\) is defined as the square of one-half of x, what is the value of \\(\\frac{*5}{*3}\\)?\nGive yo",
+      "question_type": "Numeric Entry (NE)"
+    }
+  ]
+}

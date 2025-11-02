@@ -1,0 +1,24 @@
+{
+  "category": "Numeric Entry (NE)",
+  "total_questions": 3,
+  "questions": [
+    {
+      "filename": "devora_spends_frac14_of_her_money_on_a.json",
+      "url": "https://gre.myprepclub.com/forum/devora-spends-1-4-of-her-money-on-a-textbook-and-then-buys-14253.html",
+      "question_preview": "Devora spends  \\(\\frac{1}{4}\\) of her money on a textbook, and then buys a notebook that costs \\(\\fr",
+      "question_type": "Numeric Entry (NE)"
+    },
+    {
+      "filename": "a_pot_of_soup_was_divided_equally_into.json",
+      "url": "https://gre.myprepclub.com/forum/a-pot-of-soup-was-divided-equally-into-two-bowls-if-manuel-14296.html",
+      "question_preview": "A pot of soup was divided equally into two bowls. If Manuel ate \\(\\frac{1}{4}\\) of one of the bowls ",
+      "question_type": "Numeric Entry (NE)"
+    },
+    {
+      "filename": "frac45_of_the_women_and_frac34_of_the.json",
+      "url": "https://gre.myprepclub.com/forum/4-5-of-the-women-and-of-the-men-in-a-group-speak-spanish-14313.html",
+      "question_preview": "\\(\\frac{4}{5}\\) of the women and \\(\\frac{3}{4}\\) of the men in a group speak Spanish. If there are 4",
+      "question_type": "Numeric Entry (NE)"
+    }
+  ]
+}

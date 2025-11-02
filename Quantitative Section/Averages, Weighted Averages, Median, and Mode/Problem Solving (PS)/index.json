@@ -1,0 +1,18 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 2,
+  "questions": [
+    {
+      "filename": "set_a_1_3_5_7_9_set.json",
+      "url": "https://gre.myprepclub.com/forum/set-a-1-3-5-7-9-set-b-6-8-10-12-14-for-the-sets-of-10649.html",
+      "question_preview": "Set A: 1, 3, 5, 7, 9\nSet B: 6, 8, 10, 12, 14\nFor the sets of numbers above, which of the following s",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_average_arithmetic_mean_age_of_the_buildings.json",
+      "url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-age-of-the-buildings-on-a-cert-10650.html",
+      "question_preview": "The average (arithmetic mean) age of the buildings on a certain city block is greater than 40 years ",
+      "question_type": "Unknown"
+    }
+  ]
+}

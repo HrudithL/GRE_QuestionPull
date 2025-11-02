@@ -1,0 +1,14 @@
+{
+  "question": "\\(\\sqrt{xy}\\) is a prime number, xy is even, and x > 4y > 0.\nQuantity A\nQuantity B\n\\(y\\)\n\\(1\\)\nA)The quantity in Column A is greater.\nB)The quantity in Column B is greater.\nC)The two quantities are equal.\nD)The relationship cannot be determined from the information given.\nShow\nHide\nAnswer",
+  "answer_choices": [
+    "Quantity A \nQuantity B \n\n\n\\(y\\)\n\\(1\\)\n\nA)The quantity in Column A is greater.B)The quantity in Column B is greater.C)The two quantities are equal.D)The relationship cannot be determined from the information given.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login."
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Quantitative Comparison (QCQ)",
+  "source_url": "https://gre.myprepclub.com/forum/is-a-prime-number-xy-is-even-and-x-4y-10677.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Number Properties",
+  "category": "Number Properties > Quantitative Comparison (QCQ)",
+  "detected_type": "Quantitative Comparison (QCQ)"
+}

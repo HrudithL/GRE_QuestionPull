@@ -1,0 +1,30 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 4,
+  "questions": [
+    {
+      "filename": "if_frac52x_is_a_positive_integer_how_many.json",
+      "url": "https://gre.myprepclub.com/forum/if-52-x-is-a-positive-integer-how-many-integer-values-are-p-10030.html",
+      "question_preview": "If \\(\\frac{52}{x}\\) is a positive integer, how many integer values are possible for x?\n(A) 5\n(B) 6\n(",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "a_number_x_is_32_of_a_number.json",
+      "url": "https://gre.myprepclub.com/forum/a-number-x-is-32-of-a-number-y-if-y-is-20-of-z-what-is-z-10039.html",
+      "question_preview": "A number x is 32% of a number y. If y is 20% of z, what is z in terms of x?\nA. \\(0.064x\\)\nB. \\(0.64x",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "if_s2__t2__which_of_the.json",
+      "url": "https://gre.myprepclub.com/forum/if-s-2-t-2-which-of-the-following-must-be-true-10040.html",
+      "question_preview": "If \\(S^2 > T^2\\) , which of the following must be true?\n(A) \\(S > T\\)\n(B) \\(S^2 > T\\)\n(C) \\(ST > 0\\)",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "in_a_certain_nation_every_citizen_is_assigned.json",
+      "url": "https://gre.myprepclub.com/forum/in-a-certain-nation-every-citizen-is-assigned-an-identifica-10042.html",
+      "question_preview": "In a certain nation, every citizen is assigned an identification number consisting of the last two d",
+      "question_type": "Problem Solving (PS)"
+    }
+  ]
+}

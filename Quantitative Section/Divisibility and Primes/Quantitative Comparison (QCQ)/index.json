@@ -1,0 +1,36 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 5,
+  "questions": [
+    {
+      "filename": "quantity_a_quantity_b_the_number_of_distinct.json",
+      "url": "https://gre.myprepclub.com/forum/the-number-of-distinct-factors-of-10395.html",
+      "question_preview": "Quantity A\nQuantity B\nThe number of distinct factors of 10\nThe number of distinct\nprime\nfactors of 2",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_least_common_multiple.json",
+      "url": "https://gre.myprepclub.com/forum/the-least-common-multiple-of-22-and-10396.html",
+      "question_preview": "Quantity A\nQuantity B\nThe least common multiple of 22 and 6\nThe greatest common factor of 66 and 99\n",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_number_of_distinct_1.json",
+      "url": "https://gre.myprepclub.com/forum/the-number-of-distinct-prime-factors-of-10397.html",
+      "question_preview": "Quantity A\nQuantity B\nThe number of distinct prime factors of 27\nThe number of distinct prime factor",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "10_is_divisible_by_3x5y_where_x_and.json",
+      "url": "https://gre.myprepclub.com/forum/10-is-divisible-by-3x5y-where-x-and-y-are-positive-integer-10398.html",
+      "question_preview": "10! is divisible by \\(3^x5^y\\), where x and y are positive integers.\nQuantity A\nQuantity B\nThe great",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_number_of_distinct_2.json",
+      "url": "https://gre.myprepclub.com/forum/the-number-of-distinct-prime-factors-of-10399.html",
+      "question_preview": "Quantity A\nQuantity B\nThe number of distinct prime factors of 100,000\nThe number of distinct prime f",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 13,
+  "questions": [
+    {
+      "filename": "set_n_is_a_set_of_x_distinct.json",
+      "url": "https://gre.myprepclub.com/forum/set-n-is-a-set-of-x-distinct-positive-integers-where-x-10153.html",
+      "question_preview": "Set N is a set of x distinct positive integers where x > 2.\nQuantity A\nQuantity B\nThe standard devia",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_75th_percentile_on_a_test_corresponded_to.json",
+      "url": "https://gre.myprepclub.com/forum/the-75th-percentile-on-a-test-corresponded-to-a-score-of-10154.html",
+      "question_preview": "The 75th percentile on a test corresponded to a score of 700, while the 25th percentile corresponded",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_species_of_insect_has_an_average_mass.json",
+      "url": "https://gre.myprepclub.com/forum/a-species-of-insect-has-an-average-mass-of-5-2-grams-and-a-s-10155.html",
+      "question_preview": "A species of insect has an average mass of 5.2 grams and a standard deviation of 0.6 grams. The mass",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_lengths_of_a_certain_population_of_earthworms.json",
+      "url": "https://gre.myprepclub.com/forum/the-lengths-of-a-certain-population-of-earthworms-are-normal-10156.html",
+      "question_preview": "The lengths of a certain population of earthworms are normally distributed with a mean length of 30 ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "home_values_among_the_8000_homeowners_of_town.json",
+      "url": "https://gre.myprepclub.com/forum/home-values-among-the-8-000-homeowners-of-town-x-are-normall-10157.html",
+      "question_preview": "Home values among the 8,000 homeowners of Town X are normally distributed, with a standard deviation",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "exam_grades_among_the_students_in_ms_harshmans.json",
+      "url": "https://gre.myprepclub.com/forum/exam-grades-among-the-students-in-ms-harshman-s-class-are-n-10158.html",
+      "question_preview": "Exam grades among the students in Ms. Harshman’s class are normally distributed, and the 50th percen",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "jane_scored_in_the_68th_percentile_on_a.json",
+      "url": "https://gre.myprepclub.com/forum/jane-scored-in-the-68th-percentile-on-a-test-and-john-score-10159.html",
+      "question_preview": "Jane scored in the 68th percentile on a test, and John scored in the 32nd percentile.\nQuantity A\nQua",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "in_a_class_with_20_students_a_test.json",
+      "url": "https://gre.myprepclub.com/forum/in-a-class-with-20-students-a-test-was-administered-and-was-10160.html",
+      "question_preview": "In a class with 20 students, a test was administered and was scored only in whole numbers from 0 to ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_test_is_scored_out_of_100_and.json",
+      "url": "https://gre.myprepclub.com/forum/a-test-is-scored-out-of-100-and-the-scores-are-divided-into-10161.html",
+      "question_preview": "A test is scored out of 100 and the scores are divided into five quintile groups. Students are not t",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_dataset_contains_at_least_two_different_integers.json",
+      "url": "https://gre.myprepclub.com/forum/a-dataset-contains-at-least-two-different-integers-10162.html",
+      "question_preview": "A dataset contains at least two different integers.\nQuantity A\nQuantity B\nThe range of the dataset\nT",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "some_rock_samples_are_weighed_and_their_weights.json",
+      "url": "https://gre.myprepclub.com/forum/some-rock-samples-are-weighed-and-their-weights-are-determi-10163.html",
+      "question_preview": "Some rock samples are weighed, and their weights are determined to be normally distributed. One stan",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "attachment_capturepng__6108_kib__viewed_14195.json",
+      "url": "https://gre.myprepclub.com/forum/the-graph-represents-the-normally-distributed-scores-on-a-te-10166.html",
+      "question_preview": "Attachment:\nCapture.PNG [ 61.08 KiB | Viewed 14195 times ]\nThe graph represents the normally distrib",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_outcome_of_a_standardized_test_is_an.json",
+      "url": "https://gre.myprepclub.com/forum/the-outcome-of-a-standardized-test-is-an-integer-between-10167.html",
+      "question_preview": "The outcome of a standardized test is an integer between 151 and 200, inclusive. The percentiles of ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

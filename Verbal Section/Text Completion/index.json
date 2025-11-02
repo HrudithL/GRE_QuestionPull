@@ -1,0 +1,768 @@
+{
+  "category": "Text Completion",
+  "total_questions": 127,
+  "questions": [
+    {
+      "filename": "this_question_is_a_part_of_the_5.json",
+      "url": "http://gre.myprepclub.com/forum/in-europe-football-otherwise-known-as-soccer-it-the-most-7629.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nIn Europe, foo",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_1.json",
+      "url": "http://gre.myprepclub.com/forum/the-astrophysicist-argues-that-our-books-and-films-about-int-7630.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nThe astrophysi",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_2.json",
+      "url": "https://gre.myprepclub.com/forum/even-the-and-alluring-charms-of-paris-were-not-suf-8838.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nEven the (i) _",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_3.json",
+      "url": "https://gre.myprepclub.com/forum/on-an-aptitude-test-in-1986-an-argument-posited-that-the-po-7635.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nOn an aptitude",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_4.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-14-the-widespread-tendency-to-retired-poli-2211.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nThe widespread",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_5.json",
+      "url": "https://gre.myprepclub.com/forum/every-generation-is-accused-of-slacking-by-the-preceding-one-7639.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nEvery generati",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_6.json",
+      "url": "https://gre.myprepclub.com/forum/although-retired-the-professor-takes-pains-to-remain-7640.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nAlthough retir",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_7.json",
+      "url": "https://gre.myprepclub.com/forum/the-distinction-between-architecture-and-the-engineering-9044.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nThe distinctio",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_8.json",
+      "url": "https://gre.myprepclub.com/forum/once-considered-able-to-only-emulate-actions-witho-9045.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nOnce considere",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_9.json",
+      "url": "https://gre.myprepclub.com/forum/december-s-earthquake-was-but-a-to-a-terrible-year-7648.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nDecember’s ear",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book.json",
+      "url": "https://gre.myprepclub.com/forum/after-many-years-of-war-and-bloodshed-some-became-7650.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAfter many y",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_1.json",
+      "url": "https://gre.myprepclub.com/forum/after-a-brief-initial-struggle-over-power-the-group-elected-7651.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAfter a brie",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_highly_anticipated_finale_of_the_tv_series.json",
+      "url": "https://gre.myprepclub.com/forum/the-highly-anticipated-finale-of-the-tv-series-was-divisive-newcomers-34939.html",
+      "question_preview": "The highly anticipated finale of the TV series was divisive: newcomers to the show found the fast-pa",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "during_his_sales_pitch_the_car_salesman_attempted.json",
+      "url": "https://gre.myprepclub.com/forum/during-his-sales-pitch-the-car-salesman-attempted-to-the-you-34941.html",
+      "question_preview": "During his sales pitch, the car salesman attempted to ________ the young couple into purchasing the ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_2.json",
+      "url": "https://gre.myprepclub.com/forum/just-as-reminiscences-of-a-childhood-spent-in-rural-mexico-7655.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nJust as remi",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "during_the_prolonged_and_elaborate_farewell_tour_no.json",
+      "url": "https://gre.myprepclub.com/forum/during-the-prolonged-and-elaborate-farewell-tour-no-one-thought-the-p-34943.html",
+      "question_preview": "During the prolonged and elaborate farewell tour, no one thought the plaudits heaped upon him were _",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_3.json",
+      "url": "http://gre.myprepclub.com/forum/the-beauty-pageant-contestant-told-the-judges-she-wanted-wor-7665.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe beauty p",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "in_front_of_her_parents_adults_euphemistically_referred.json",
+      "url": "https://gre.myprepclub.com/forum/in-front-of-her-parents-adults-euphemistically-referred-18420.html",
+      "question_preview": "In front of her parents, adults euphemistically referred to the overly talkative young girl as preco",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "in_contrast_to_environmental_economics_an_older_field.json",
+      "url": "https://gre.myprepclub.com/forum/in-contrast-to-environmental-economics-an-older-field-that-concerns-29229.html",
+      "question_preview": "In contrast to environmental economics, an older field that concerns itself with the monetary valuat",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "todays_highly_partisan_political_environment_is_far_from.json",
+      "url": "https://gre.myprepclub.com/forum/today-s-highly-partisan-political-environment-is-far-from-no-34945.html",
+      "question_preview": "Today’s highly partisan political environment is far from ________; not so long ago, ideological opp",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_4.json",
+      "url": "https://gre.myprepclub.com/forum/for-centuries-commercial-portrait-painters-have-employed-a-7671.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nFor centurie",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_5.json",
+      "url": "http://gre.myprepclub.com/forum/dogmatic-professors-often-alienate-their-classes-because-the-7672.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nDogmatic pro",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_6.json",
+      "url": "http://gre.myprepclub.com/forum/general-mcclellan-focused-so-intently-on-the-petty-logistic-7673.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nGeneral McCl",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "for_all_the_students_meticulous_preparation_he_received.json",
+      "url": "https://gre.myprepclub.com/forum/for-all-the-student-s-meticulous-preparation-he-received-gra-34947.html",
+      "question_preview": "For all the student’s meticulous preparation, he received ________ grade on his final exam.\nBlank (i",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_7.json",
+      "url": "https://gre.myprepclub.com/forum/just-as-ancient-greek-culture-in-some-ways-provided-the-7678.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nJust as anci",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_8.json",
+      "url": "https://gre.myprepclub.com/forum/as-an-evolutionary-adaptation-cats-have-developed-a-7679.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAs an evolut",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_9.json",
+      "url": "https://gre.myprepclub.com/forum/the-donner-party-made-a-choice-to-try-to-cross-the-7683.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe Donner p",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_engineer_is_not_interested_in_developing_products.json",
+      "url": "https://gre.myprepclub.com/forum/the-engineer-is-not-interested-in-developing-products-to-meet-market-n-34956.html",
+      "question_preview": "The engineer is not interested in developing products to meet market needs; her work is known for it",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "the_senators__________upbringing_seemingly_had_no_effect.json",
+      "url": "https://gre.myprepclub.com/forum/the-senator-s-upbringing-seemingly-had-no-effect-on-his-polic-34965.html",
+      "question_preview": "The senator’s ________ upbringing seemingly had no effect on his policy: he vociferously championed ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "the_comedians__________wit_has_long_been_the.json",
+      "url": "https://gre.myprepclub.com/forum/the-comedian-s-wit-has-long-been-the-cause-of-the-polarized-s-34972.html",
+      "question_preview": "The comedian’s ________ wit has long been the cause of the polarized sentiments she evokes in her au",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "contrary_to_the_assumptions_that_many_westerners_hold.json",
+      "url": "https://gre.myprepclub.com/forum/contrary-to-the-assumptions-that-many-westerners-hold-about-mindfulnes-34981.html",
+      "question_preview": "Contrary to the assumptions that many Westerners hold about mindfulness practices, meditation is oft",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_10.json",
+      "url": "https://gre.myprepclub.com/forum/there-are-many-good-reasons-to-construct-urban-traffic-lanes-7709.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThere are ma",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_11.json",
+      "url": "https://gre.myprepclub.com/forum/the-apparent-simplicity-of-a-cup-of-coffee-the-7711.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe apparent",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "in_an_age_of_near_instantaneous_fact_checking_political.json",
+      "url": "https://gre.myprepclub.com/forum/in-an-age-of-near-instantaneous-fact-checking-political-candidates-mu-34997.html",
+      "question_preview": "In an age of near-instantaneous fact checking, political candidates must be careful of making sponta",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "faced_with__________job_market_many_young_people.json",
+      "url": "https://gre.myprepclub.com/forum/faced-with-job-market-many-young-people-are-returning-to-gra-34985.html",
+      "question_preview": "Faced with ________ job market, many young people are returning to graduate school rather than attem",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_12.json",
+      "url": "https://gre.myprepclub.com/forum/children-who-are-recognized-as-preternaturally-intelligent-o-7760.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nChildren who",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "when_first_introduced_by_senior_management_the_new.json",
+      "url": "https://gre.myprepclub.com/forum/when-first-introduced-by-senior-management-the-new-boss-was-viewed-as-35011.html",
+      "question_preview": "When first introduced by senior management, the new boss was viewed as a figurehead at best, but aft",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "the_independent_audit_showed_that_the_company_was.json",
+      "url": "https://gre.myprepclub.com/forum/the-independent-audit-showed-that-the-company-was-not-let-al-35016.html",
+      "question_preview": "The independent audit showed that the company was not ________, let alone flourishing, as its initia",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_13.json",
+      "url": "https://gre.myprepclub.com/forum/unfortunately-for-the-young-hire-the-amiable-gregarious-7769.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nUnfortunatel",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_14.json",
+      "url": "https://gre.myprepclub.com/forum/in-this-day-and-age-side-show-barkers-competing-with-the-7774.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIn this day ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_15.json",
+      "url": "https://gre.myprepclub.com/forum/evoking-both-horror-and-joy-in-its-audience-in-equal-measure-7776.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nEvoking both",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_famous_notre_dame_cathedral_in_paris_took.json",
+      "url": "https://gre.myprepclub.com/forum/the-famous-notre-dame-cathedral-in-paris-took-almost-two-7777.html",
+      "question_preview": "The famous Notre Dame cathedral in Paris took almost two hundred years to complete; this immense arc",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_16.json",
+      "url": "https://gre.myprepclub.com/forum/finally-after-refusing-for-a-decade-the-family-patriarch-7782.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nFinally, aft",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_17.json",
+      "url": "https://gre.myprepclub.com/forum/there-is-little-agreement-among-specialists-about-whether-7791.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThere is lit",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_writer_lillian_hellman_honestly_called_her_disingenuous.json",
+      "url": "https://gre.myprepclub.com/forum/the-writer-lillian-hellman-honestly-called-her-disingenuous-argumentat-35040.html",
+      "question_preview": "The writer Lillian Hellman honestly called her disingenuous argumentative strategy “the nobility rac",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "the_fitness_guru_seemingly_an_advocate_of_overall.json",
+      "url": "https://gre.myprepclub.com/forum/the-fitness-guru-seemingly-an-advocate-of-overall-salubrious-living-35041.html",
+      "question_preview": "The fitness guru, seemingly an advocate of overall salubrious living, often, late at night and behin",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "while_abduls__________with_his_children_made_him.json",
+      "url": "https://gre.myprepclub.com/forum/while-abdul-s-with-his-children-made-him-well-loved-he-worri-35052.html",
+      "question_preview": "While Abdul’s ________ with his children made him well loved, he worried what too much laxity might ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_10.json",
+      "url": "http://gre.myprepclub.com/forum/peculiarly-enough-shakespeare-has-been-often-i-as-7631.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nPeculiarly eno",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "while_far_from_the_bane_that_some_scholars.json",
+      "url": "https://gre.myprepclub.com/forum/while-far-from-the-bane-that-some-scholars-have-declared-the-8837.html",
+      "question_preview": "While far from the bane that some scholars have declared them to be, (i) _________ versions of novel",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "the_fact_that_the_average_life_expectancy_ten.json",
+      "url": "https://gre.myprepclub.com/forum/the-fact-that-the-average-life-expectancy-ten-thousand-year-8839.html",
+      "question_preview": "The fact that the average life expectancy ten thousand years ago was so much shorter than it is now ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_11.json",
+      "url": "https://gre.myprepclub.com/forum/academic-work-can-be-as-taxing-as-manual-labor-the-misconce-9037.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nAcademic work ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_12.json",
+      "url": "https://gre.myprepclub.com/forum/known-for-her-humorous-but-acerbic-wit-the-fashion-doyenne-7638.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nKnown for her ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_13.json",
+      "url": "https://gre.myprepclub.com/forum/she-was-not-the-only-i-of-the-long-proposed-7641.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nShe was not th",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_14.json",
+      "url": "https://gre.myprepclub.com/forum/jeremy-was-not-one-to-i-his-success-let-alone-t-9038.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nJeremy was not",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_15.json",
+      "url": "https://gre.myprepclub.com/forum/in-his-youth-oscar-wilde-catapulted-to-sudden-fame-both-bec-9039.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nIn his youth, ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_16.json",
+      "url": "https://gre.myprepclub.com/forum/the-film-was-i-ii-by-critics-rightf-9043.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nThe film was (",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_18.json",
+      "url": "https://gre.myprepclub.com/forum/although-they-had-never-met-the-two-writers-felt-they-were-7649.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAlthough the",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_author_was_far_from_i__________the.json",
+      "url": "https://gre.myprepclub.com/forum/the-author-was-far-from-i-the-novel-while-most-of-the-book-34940.html",
+      "question_preview": "The author was far from (i) ________ the novel. While most of the book was already written, he knew ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_19.json",
+      "url": "https://gre.myprepclub.com/forum/the-peanut-is-often-i-referred-to-as-a-nut-ii-7656.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe peanut i",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_20.json",
+      "url": "https://gre.myprepclub.com/forum/the-i-child-approached-the-diving-board-ii-7657.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe (i) ____",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_21.json",
+      "url": "https://gre.myprepclub.com/forum/he-has-such-a-pleasingly-i-personality-that-it-s-7662.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nHe has such ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_tasmanian_devil_is_not_considered_i.json",
+      "url": "https://gre.myprepclub.com/forum/the-tasmanian-devil-is-not-considered-i-since-only-a-few-o-34944.html",
+      "question_preview": "The Tasmanian devil is not considered (i) ________, since only a few of its confrontations with huma",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_22.json",
+      "url": "http://gre.myprepclub.com/forum/the-i-young-employee-was-soon-ii-for-7664.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe (i) ____",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_23.json",
+      "url": "https://gre.myprepclub.com/forum/the-virtual-i-of-john-f-kennedy-focuses-on-his-7670.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe virtual ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_24.json",
+      "url": "https://gre.myprepclub.com/forum/jimmy-stewart-the-actor-spoke-with-an-i-that-7674.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nJimmy Stewar",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "given_the_i__________of_the_book_the.json",
+      "url": "https://gre.myprepclub.com/forum/given-the-i-of-the-book-the-critical-reception-was-surpris-34946.html",
+      "question_preview": "Given the (i) ________ of the book, the critical reception was surprisingly (ii) ________; reviewers",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_25.json",
+      "url": "https://gre.myprepclub.com/forum/ironically-the-commentator-who-so-roundly-condemned-persona-7676.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIronically, ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "far_from_the_i__________novice_that_he.json",
+      "url": "https://gre.myprepclub.com/forum/far-from-the-i-novice-that-he-made-himself-out-to-be-the-n-34949.html",
+      "question_preview": "Far from the (i) ________ novice that he made himself out to be, the new teacher was in fact quite (",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "since_there_are_significant_i__________in_the.json",
+      "url": "https://gre.myprepclub.com/forum/since-there-are-significant-i-in-the-flawed-methodologies-o-34950.html",
+      "question_preview": "Since there are significant (i) ________ in the flawed methodologies of the studies upon which it is",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_26.json",
+      "url": "https://gre.myprepclub.com/forum/crane-brinton-argued-that-the-middle-phases-of-revolutions-a-7682.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nCrane Brinto",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_27.json",
+      "url": "https://gre.myprepclub.com/forum/frederick-the-great-of-prussia-was-known-for-his-7685.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nFrederick th",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "in_her_opening_remarks_the_schools_director_empathized.json",
+      "url": "https://gre.myprepclub.com/forum/in-her-opening-remarks-the-school-s-director-empathized-with-the-appa-34957.html",
+      "question_preview": "In her opening remarks, the school’s director empathized with the apparent (i) ________ of taking di",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_28.json",
+      "url": "https://gre.myprepclub.com/forum/though-the-negotiation-was-initially-expected-to-proceed-7689.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThough the n",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "unable_to_eschew_her_well_known_tendency_toward_i.json",
+      "url": "https://gre.myprepclub.com/forum/unable-to-eschew-her-well-known-tendency-toward-i-the-spea-34958.html",
+      "question_preview": "Unable to eschew her well-known tendency toward (i) ________, the speaker effectively turned a five-",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_29.json",
+      "url": "https://gre.myprepclub.com/forum/the-plan-if-it-can-be-called-that-has-been-more-of-a-7692.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe plan, if",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "though_many_readers_assumed_that_the_i.json",
+      "url": "https://gre.myprepclub.com/forum/though-many-readers-assumed-that-the-i-depicted-in-her-stor-34966.html",
+      "question_preview": "Though many readers assumed that the (i) ________ depicted in her stories reflected the author’s own",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_30.json",
+      "url": "https://gre.myprepclub.com/forum/the-club-had-been-all-male-up-until-1963-when-it-began-to-a-7702.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe club had",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_31.json",
+      "url": "https://gre.myprepclub.com/forum/although-this-historical-figure-had-been-i-7703.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAlthough thi",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "despite_his_longtime_advocacy_for_campaign_finance_reform.json",
+      "url": "https://gre.myprepclub.com/forum/despite-his-longtime-advocacy-for-campaign-finance-reform-the-career-34983.html",
+      "question_preview": "Despite his longtime advocacy for campaign finance reform, the career politician was, in fact, far m",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "far_too_i__________to_consider_a_career.json",
+      "url": "https://gre.myprepclub.com/forum/far-too-i-to-consider-a-career-in-the-political-limelight-34984.html",
+      "question_preview": "Far too (i) ________ to consider a career in the political limelight, the unassuming aide contented ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_32.json",
+      "url": "https://gre.myprepclub.com/forum/notwithstanding-the-mishmash-of-worn-tools-littering-every-7712.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nNotwithstand",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_33.json",
+      "url": "https://gre.myprepclub.com/forum/two-years-after-the-legislature-s-i-approval-of-7713.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nTwo years af",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_34.json",
+      "url": "https://gre.myprepclub.com/forum/incensed-and-perhaps-spooked-by-the-implications-of-the-7714.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIncensed, an",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_35.json",
+      "url": "https://gre.myprepclub.com/forum/the-relationship-between-the-two-leaders-has-gone-from-7715.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe relation",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_captain_i_____________ii_____________for_as.json",
+      "url": "https://gre.myprepclub.com/forum/the-captain-i-ii-for-as-2371.html",
+      "question_preview": "The captain (i) ___________ (ii) ___________ for as long as he could, but eventually the crew became",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_36.json",
+      "url": "https://gre.myprepclub.com/forum/of-course-we-would-all-like-to-believe-that-our-every-succes-7755.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nOf course we",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_eyes_of_the_mantis_shrimp_have_more.json",
+      "url": "https://gre.myprepclub.com/forum/the-eyes-of-the-mantis-shrimp-have-more-types-of-photoreceptors-or-co-34998.html",
+      "question_preview": "The eyes of the mantis shrimp have more types of photoreceptors, or color-detecting cells, than thos",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_37.json",
+      "url": "https://gre.myprepclub.com/forum/jackson-s-supporters-praised-his-earthy-speech-as-evidence-7757.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nJackson’s su",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_38.json",
+      "url": "https://gre.myprepclub.com/forum/economists-have-developed-such-sophisticated-and-i-7758.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nEconomists h",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_39.json",
+      "url": "https://gre.myprepclub.com/forum/patients-who-stop-taking-antibiotics-when-symptoms-subside-7759.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nPatients who",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_40.json",
+      "url": "https://gre.myprepclub.com/forum/freud-s-structural-model-of-the-psyche-should-be-understood-7761.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nFreud’s stru",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_41.json",
+      "url": "https://gre.myprepclub.com/forum/the-silent-film-pioneer-harold-lloyd-made-a-virtue-of-the-7762.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe silent-f",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_42.json",
+      "url": "https://gre.myprepclub.com/forum/just-as-philip-k-dick-s-acclaimed-science-fiction-shows-his-7766.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nJust as Phil",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "a_business_that_when_it_receives_a_requisite.json",
+      "url": "https://gre.myprepclub.com/forum/a-business-that-when-it-receives-a-requisite-amount-of-regulatory-pre-35017.html",
+      "question_preview": "A business that, when it receives a requisite amount of regulatory pressure, (i) ________ its own no",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_43.json",
+      "url": "https://gre.myprepclub.com/forum/comprehension-of-the-character-of-italian-wine-is-impeded-7770.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\n(i) ________",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_44.json",
+      "url": "https://gre.myprepclub.com/forum/added-to-the-i-with-which-the-clerk-seems-to-7771.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAdded to the",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "according_to_critics_the_novelists_latest_effort_with.json",
+      "url": "https://gre.myprepclub.com/forum/according-to-critics-the-novelist-s-latest-effort-with-its-dry-pedan-35018.html",
+      "question_preview": "According to critics, the novelist’s latest effort, with its dry pedantry and humorless presentation",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_45.json",
+      "url": "https://gre.myprepclub.com/forum/i-the-law-had-little-impact-but-it-was-7775.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\n(i) ________",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_46.json",
+      "url": "https://gre.myprepclub.com/forum/while-no-single-empirical-investigation-can-ever-conclusivel-7778.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nWhile no sin",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_47.json",
+      "url": "https://gre.myprepclub.com/forum/a-full-account-of-the-complexities-of-sleep-sought-2449.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nA full accou",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_48.json",
+      "url": "https://gre.myprepclub.com/forum/mozart-s-brief-life-exemplified-a-discrepancy-between-fame-a-7780.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nMozart’s bri",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_49.json",
+      "url": "https://gre.myprepclub.com/forum/desktop-publishing-allows-i-to-do-for-themselves-7785.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nDesktop publ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "there_was_much_to_admire_about_the_singers.json",
+      "url": "https://gre.myprepclub.com/forum/there-was-much-to-admire-about-the-singer-s-voice-but-her-abilities-a-35022.html",
+      "question_preview": "There was much to admire about the singer’s voice, but her abilities as a performer were not as (i) ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "the_contradictions_in_the_philosophers_life_were_more.json",
+      "url": "https://gre.myprepclub.com/forum/the-contradictions-in-the-philosopher-s-life-were-more-i-be-35038.html",
+      "question_preview": "The contradictions in the philosopher’s life were more (i) ________ because he was celebrated for hi",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_50.json",
+      "url": "https://gre.myprepclub.com/forum/if-impact-on-one-s-contemporaries-is-the-test-of-i-7788.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIf impact on",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_51.json",
+      "url": "https://gre.myprepclub.com/forum/one-liberal-activist-asserts-that-politicians-tendency-to-7789.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nOne liberal ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "the_recent_discoveries_of_unexploded_world_war_ii.json",
+      "url": "https://gre.myprepclub.com/forum/the-recent-discoveries-of-unexploded-world-war-ii-munitions-buried-jus-35042.html",
+      "question_preview": "The recent discoveries of unexploded World War II munitions buried just beneath houses and roads in ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "despite_her_i__________position_on_tax_reform.json",
+      "url": "https://gre.myprepclub.com/forum/despite-her-i-position-on-tax-reform-the-senator-was-not-35049.html",
+      "question_preview": "Despite her (i) ________ position on tax reform, the senator was not (ii) ________ to strike a conce",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "there_seems_to_be_i__________the_practice.json",
+      "url": "https://gre.myprepclub.com/forum/there-seems-to-be-i-the-practice-of-medicine-in-the-united-35050.html",
+      "question_preview": "There seems to be (i) ________ the practice of medicine in the United States: while it is the duty o",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_17.json",
+      "url": "https://gre.myprepclub.com/forum/hursthouse-i-virtue-ethicists-in-general-argue-7644.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nHursthouse, (i",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_52.json",
+      "url": "https://gre.myprepclub.com/forum/soldier-ants-are-wingless-sterile-females-that-guard-the-co-7658.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nSoldier ants",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "while_taller_wind_turbines_would_allow_more_areas.json",
+      "url": "https://gre.myprepclub.com/forum/while-taller-wind-turbines-would-allow-more-areas-of-the-country-to-pr-34942.html",
+      "question_preview": "While taller wind turbines would allow more areas of the country to provide cost-effective alternati",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_53.json",
+      "url": "http://gre.myprepclub.com/forum/while-the-author-s-first-collection-of-short-stories-present-7667.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nWhile the au",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_54.json",
+      "url": "https://gre.myprepclub.com/forum/the-library-wing-was-first-conceived-merely-as-i-7688.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe library ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_55.json",
+      "url": "https://gre.myprepclub.com/forum/it-was-a-fact-that-the-region-was-both-quiet-and-rural-but-7700.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIt was a fac",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "though_the_professor_had_made_her_i.json",
+      "url": "https://gre.myprepclub.com/forum/though-the-professor-had-made-her-i-tendencies-clear-to-the-34988.html",
+      "question_preview": "Though the professor had made her (i) ________ tendencies clear to the hiring committee, the extent ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_56.json",
+      "url": "https://gre.myprepclub.com/forum/his-grandmother-s-house-was-always-a-bedlam-of-porcelain-7735.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nHis grandmot",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "whereas_early_work_in_the_field_of_spectroscopy.json",
+      "url": "https://gre.myprepclub.com/forum/whereas-early-work-in-the-field-of-spectroscopy-i-the-dispe-35051.html",
+      "question_preview": "Whereas early work in the field of spectroscopy (i) ________ the dispersal of visible light by a pri",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "critics_of_media_consolidation_say_that_it_has.json",
+      "url": "https://gre.myprepclub.com/forum/critics-of-media-consolidation-say-that-it-has-resulted-in-both-a-i-35012.html",
+      "question_preview": "Critics of media consolidation say that it has resulted in both a (i) ________ of unique viewpoints ",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "the_more_deeply_one_delves_into_the_relevant.json",
+      "url": "https://gre.myprepclub.com/forum/the-more-deeply-one-delves-into-the-relevant-litera-2392.html",
+      "question_preview": "The more deeply one delves into the relevant literature, the more apparent it becomes that psychoana",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_57.json",
+      "url": "https://gre.myprepclub.com/forum/the-pair-s-apparent-antagonism-could-easily-be-written-off-a-7783.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe pair’s a",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_58.json",
+      "url": "https://gre.myprepclub.com/forum/even-thrill-seeking-visitors-to-amusement-parks-will-avoid-7784.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nEven thrill-",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "in_the_course_of_a_transatlantic_voyage_following.json",
+      "url": "https://gre.myprepclub.com/forum/in-the-course-of-a-transatlantic-voyage-following-the-first-world-war-35039.html",
+      "question_preview": "In the course of a transatlantic voyage following the First World War, he magically acquired an hono",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "it_may_be_surprising_that_even_perennially_i.json",
+      "url": "https://gre.myprepclub.com/forum/it-may-be-surprising-that-even-perennially-i-reporters-have-35043.html",
+      "question_preview": "It may be surprising that even perennially (i) ________ reporters have had misgivings about entering",
+      "question_type": "Numeric Entry (NE)"
+    },
+    {
+      "filename": "one_does_not_generally_associate_teenagers_with_i.json",
+      "url": "https://gre.myprepclub.com/forum/one-does-not-generally-associate-teenagers-with-i-jean-ho-35046.html",
+      "question_preview": "One does not generally associate teenagers with (i) ________. Jean, however, exercises a self-discip",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "unexpectedly_the_actors_i__________behavior_did_little.json",
+      "url": "https://gre.myprepclub.com/forum/unexpectedly-the-actor-s-i-behavior-did-little-to-ii-35047.html",
+      "question_preview": "Unexpectedly, the actor’s (i) ________ behavior did little to (ii) ________ his reputation as a fami",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "now_that_fresh_produce_has_become_i__________markets.json",
+      "url": "https://gre.myprepclub.com/forum/now-that-fresh-produce-has-become-i-markets-and-stands-in-35048.html",
+      "question_preview": "Now that fresh produce has become (i) _________—markets and stands in cities throughout the world bo",
+      "question_type": "Text Completion"
+    }
+  ]
+}

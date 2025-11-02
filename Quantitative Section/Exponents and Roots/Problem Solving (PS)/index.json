@@ -1,0 +1,42 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 6,
+  "questions": [
+    {
+      "filename": "if_22__fracx26_24_23_which_of_the.json",
+      "url": "https://gre.myprepclub.com/forum/if-22-23-which-of-the-following-could-be-the-value-of-x-10567.html",
+      "question_preview": "If \\(2^2 < \\frac{x}{2^6-2^4}< 2^3\\), which of the following could be the value of x?\nIndicate all su",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_5000__2x5y_and_x_and_y.json",
+      "url": "https://gre.myprepclub.com/forum/if-5-000-2-x5-y-and-x-and-y-are-integers-what-is-the-10559.html",
+      "question_preview": "If \\(5,000 = 2^x5^y\\) and x and y are integers, what is the value of \\(x + y\\)?\n_________________\nSa",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_17sqrt3m__34_what_is_the_value.json",
+      "url": "https://gre.myprepclub.com/forum/if-17-34-what-is-the-value-of-10560.html",
+      "question_preview": "If \\(17\\sqrt[3]{m} = 34\\), what is the value of \\(6\\sqrt[3]{m}\\)?\n_________________\nSandy\nIf you fou",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "what_is_the_greatest_prime_factor_of_299.json",
+      "url": "https://gre.myprepclub.com/forum/what-is-the-greatest-prime-factor-of-10561.html",
+      "question_preview": "What is the greatest prime factor of \\(2^{99} – 2^{96}\\)?\n_________________\nSandy\nIf you found this ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_12x_is_odd_and_x_is_an.json",
+      "url": "https://gre.myprepclub.com/forum/if-12x-is-odd-and-x-is-an-integer-what-is-the-value-of-x12-10565.html",
+      "question_preview": "If \\(12^x\\) is odd and x is an integer, what is the value of \\(x^{12}\\)?\n_________________\nSandy\nIf ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "what_is_the_value_of_frac44frac52sqrt113___________________sandy.json",
+      "url": "https://gre.myprepclub.com/forum/what-is-the-value-of-10566.html",
+      "question_preview": "What is the value of \\(\\frac{44^{\\frac{5}{2}}}{\\sqrt{11^3}}\\)?\n_________________\nSandy\nIf you found ",
+      "question_type": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": "The wait time in minutes, w, for a table at a certain restaurant can be estimated by the formula \\(w = d^2 + kn\\), where d is the number of diners in the party, k is a constant, and n is the number of parties ahead in line at the beginning of the wait. If a party of 4 has an estimated wait time of 40 minutes when 6 other parties are ahead of it, how many minutes would the estimated wait time be for a party of 6 if there are 3 parties ahead of it?\n(A) 28\n(B) 33\n(C) 39\n(D) 42\n(E) 48\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "28",
+    "33",
+    "39",
+    "42",
+    "48\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/the-wait-time-in-minutes-w-for-a-table-at-a-certain-restau-10185.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

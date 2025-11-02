@@ -1,0 +1,54 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 8,
+  "questions": [
+    {
+      "filename": "if_a__x__y2_and_b.json",
+      "url": "https://gre.myprepclub.com/forum/if-a-x-y-2-and-b-x2-y2-and-xy-0-which-of-the-fol-9767.html",
+      "question_preview": "If \\(a = (x + y)^2\\) and \\(b = x^2 + y^2\\) and \\(xy > 0\\), which of the following must be true?\nIndi",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_x_neq_0_and_frac36_x2x__6_what.json",
+      "url": "https://gre.myprepclub.com/forum/if-x-0-and-6-what-is-the-value-of-x-9742.html",
+      "question_preview": "If \\(x \\neq 0\\) and \\(\\frac{3(6-x)}{2x}= -6\\), what is the value of x?\n_________________\nSandy\nIf yo",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_x_neq_2_and_frac8_2_410x2_x_17_what.json",
+      "url": "https://gre.myprepclub.com/forum/if-x-2-and-17-what-is-the-value-of-x-9743.html",
+      "question_preview": "If \\(x \\neq 2\\) and \\(\\frac{8-2(-4+10x)}{2-x}= 17\\), what is the value of x?\n_________________\nSandy",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_x___y__4_and_2x.json",
+      "url": "https://gre.myprepclub.com/forum/if-x-y-4-and-2x-y-5-what-is-the-value-of-x-9745.html",
+      "question_preview": "If \\(x - y = 4\\) and \\(2x + y = 5\\), what is the value of x?\n_________________\nSandy\nIf you found th",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "4x__y__3z__34_4x.json",
+      "url": "https://gre.myprepclub.com/forum/4x-y-3z-34-4x-3z-21-what-is-the-value-of-y-9746.html",
+      "question_preview": "\\(4x + y + 3z = 34\\)\n\\(4x + 3z = 21\\)\nWhat is the value of y?\n_________________\nSandy\nIf you found t",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_x__y___3_and_x2.json",
+      "url": "https://gre.myprepclub.com/forum/if-x-y-3-and-x2-y2-12-what-is-the-value-of-2xy-9747.html",
+      "question_preview": "If \\(x + y = -3\\) and \\(x^2 + y^2 = 12\\), what is the value of \\(2xy\\)?\n_________________\nSandy\nIf y",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_x___y__frac12_and_x2.json",
+      "url": "https://gre.myprepclub.com/forum/if-x-y-and-x2-y2-3-what-is-the-value-of-x-y-9748.html",
+      "question_preview": "If \\(x - y = \\frac{1}{2}\\) and \\(x^2 - y^2 = 3\\), what is the value of \\(x + y\\)?\n_________________\n",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_x2___2xy__84_and_x.json",
+      "url": "https://gre.myprepclub.com/forum/if-x2-2xy-84-and-x-y-10-what-is-the-value-of-y-9749.html",
+      "question_preview": "If \\(x^2 - 2xy = 84\\) and \\(x - y = -10\\), what is the value of |y|?\n_________________\nSandy\nIf you ",
+      "question_type": "Unknown"
+    }
+  ]
+}

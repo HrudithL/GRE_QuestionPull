@@ -1,0 +1,18 @@
+{
+  "category": "Multiple Answer Choices (MAC)",
+  "total_questions": 2,
+  "questions": [
+    {
+      "filename": "which_of_the_following_is_equal_to_frac_12x.json",
+      "url": "https://gre.myprepclub.com/forum/which-of-the-following-is-equal-to-14299.html",
+      "question_preview": "Which of the following is equal to \\(\\frac{-1}{2x} - \\frac{1}{4y} + \\frac{1}{xy} + \\frac{1}{8}\\) ?\nA",
+      "question_type": "Multiple Answer Choices (MAC)"
+    },
+    {
+      "filename": "what_is_the_value_of_frac1722238419119341231111926__give.json",
+      "url": "https://gre.myprepclub.com/forum/what-is-the-value-of-14301.html",
+      "question_preview": "What is the value of \\(\\frac{(17^2)(22)(38)(41)(91)}{(19)(34)(123)(11)(119)(26)} =\\)?\nGive your answ",
+      "question_type": "Multiple Answer Choices (MAC)"
+    }
+  ]
+}

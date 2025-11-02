@@ -1,0 +1,42 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 6,
+  "questions": [
+    {
+      "filename": "w_x_y_and_z_are_consecutive_odd.json",
+      "url": "https://gre.myprepclub.com/forum/w-x-y-and-z-are-consecutive-odd-integers-such-that-w-x-11149.html",
+      "question_preview": "w, x, y, and z are consecutive odd integers such that w < x < y < z. Which of the following statemen",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_y2__4__and_x2y.json",
+      "url": "https://gre.myprepclub.com/forum/if-y2-4-and-x2y-18-which-of-the-following-values-could-equal-x-35182.html",
+      "question_preview": "If \\(y^2 = 4 \\) and \\(x^2y = 18\\), which of the following values could equal x + y?\nIndicate two suc",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_x_is_a_positive_integer_which_one.json",
+      "url": "https://gre.myprepclub.com/forum/if-x-is-a-positive-integer-which-one-of-the-following-could-be-the-re-35183.html",
+      "question_preview": "If x is a positive integer, which one of the following could be the remainder when \\(73^x\\) is divid",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_g_is_an_integer_and_x_is.json",
+      "url": "https://gre.myprepclub.com/forum/if-g-is-an-integer-and-x-is-a-prime-number-which-of-the-following-mus-35184.html",
+      "question_preview": "If g is an integer and x is a prime number, which of the following must be an integer?\nIndicate all ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_set_s_consists_of_all_positive_integers.json",
+      "url": "https://gre.myprepclub.com/forum/if-set-s-consists-of-all-positive-integers-that-are-multiple-11145.html",
+      "question_preview": "If set S consists of all positive integers that are multiples of both 2 and 7, how many numbers in s",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_p_is_the_sum_of_all_the.json",
+      "url": "https://gre.myprepclub.com/forum/if-p-is-the-sum-of-all-the-integers-from-1-to-150-inclusive-11147.html",
+      "question_preview": "If p is the sum of all the integers from 1 to 150, inclusive, and q is the sum of all the integers f",
+      "question_type": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": "The sequence S is defined by \\(S_n = S_{n – 1} + S_{n – 2} – 3\\) for each integer n ≥ 3. If \\(S_1 = 5\\) and \\(S_2 = 0\\), what is the value of \\(S_6\\)?\n(A) –6\n(B) –5\n(C) –3\n(D) –1\n(E) 1\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "–6",
+    "–5",
+    "–3",
+    "–1",
+    "1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/the-sequence-s-is-defined-by-sn-sn-1-sn-2-3-for-10107.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

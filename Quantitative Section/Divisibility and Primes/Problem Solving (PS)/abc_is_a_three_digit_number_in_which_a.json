@@ -1,0 +1,18 @@
+{
+  "question": "abc is a three-digit number in which a is the hundreds digit, b is the tens digit, and c is the units digit. Let \\(&(abc)& = (2^a)(3^b)(5^c)\\). For example, \\(&(203)& = (2^2)(3^0)(5^3) = 500\\). For how many three-digit numbers abc does the function &(abc)& yield a prime number?\n(A) Zero\n(B) One\n(C) Two\n(D) Three\n(E) Nine\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "Zero",
+    "One",
+    "Two",
+    "Three",
+    "Nine\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/abc-is-a-three-digit-number-in-which-a-is-the-hundreds-digit-10394.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Divisibility and Primes",
+  "category": "Divisibility and Primes > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

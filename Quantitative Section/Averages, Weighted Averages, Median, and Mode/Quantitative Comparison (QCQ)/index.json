@@ -1,0 +1,96 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 15,
+  "questions": [
+    {
+      "filename": "janani_is_6_centimeters_taller_than_preeti_who.json",
+      "url": "https://gre.myprepclub.com/forum/janani-is-6-centimeters-taller-than-preeti-who-is-10-centim-10634.html",
+      "question_preview": "Janani is 6 centimeters taller than Preeti, who is 10 centimeters taller than Rey.\nQuantity A\nQuanti",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_average_arithmetic_mean_of_x_and_y.json",
+      "url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-of-x-and-y-is-55-the-average-10635.html",
+      "question_preview": "The average (arithmetic mean) of x and y is 55. The average of y and z is 75.\nQuantity A\nQuantity B\n",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "ab__0_quantity_a_quantity_b_fracab2.json",
+      "url": "https://gre.myprepclub.com/forum/ab-10636.html",
+      "question_preview": "ab < 0\nQuantity A\nQuantity B\n\\(\\frac{a+b}{2}\\)\n\\(0\\)\nA) Quantity A is greater.\nB) Quantity B is grea",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_average_arithmetic_mean.json",
+      "url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-of-x-3-x-x-3-x-4-and-10637.html",
+      "question_preview": "Quantity A\nQuantity B\nThe average (arithmetic mean) of x – 3, x, x +3, x + 4, and x + 11\nThe median ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "at_a_certain_school_all_118_juniors_have.json",
+      "url": "https://gre.myprepclub.com/forum/at-a-certain-school-all-118-juniors-have-an-average-arithm-10638.html",
+      "question_preview": "At a certain school, all 118 juniors have an average (arithmetic mean) final exam score of 88 and al",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_average_arithmetic_mean_1.json",
+      "url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-of-x-y-and-z-10639.html",
+      "question_preview": "Quantity A\nQuantity B\nThe average (arithmetic mean) of x, y, and z\nThe average (arithmetic mean) of ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "four_people_have_an_average_arithmetic_mean_age.json",
+      "url": "https://gre.myprepclub.com/forum/four-people-have-an-average-arithmetic-mean-age-of-18-and-10640.html",
+      "question_preview": "Four people have an average (arithmetic mean) age of 18, and none of the people are older than 30.\nQ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "dataset_a_consists_of_5_numbers_which_have.json",
+      "url": "https://gre.myprepclub.com/forum/dataset-a-consists-of-5-numbers-which-have-an-average-arit-10641.html",
+      "question_preview": "Dataset A consists of 5 numbers, which have an average (arithmetic mean) value of 43. Dataset B cons",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_average_arithmetic_mean_weight_of_4_people.json",
+      "url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-weight-of-4-people-is-85-kilog-10642.html",
+      "question_preview": "The average (arithmetic mean) weight of 4 people is 85 kilograms. Two of the people weigh 75 and 90 ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "while_driving_from_city_a_to_city_b.json",
+      "url": "https://gre.myprepclub.com/forum/while-driving-from-city-a-to-city-b-a-car-got-22-miles-per-10643.html",
+      "question_preview": "While driving from city A to city B, a car got 22 miles per gallon and while returning on the same r",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "s_n__3n__3_sequence_s_is.json",
+      "url": "https://gre.myprepclub.com/forum/sn-3n-3-sequence-s-is-defined-for-each-integer-n-such-th-10644.html",
+      "question_preview": "\\(S_n = 3n + 3\\)\nSequence S is defined for each integer n such that\n0 < n < 10,000.\nQuantity A\nQuant",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "set_m_consists_of_20_evenly_spaced_integers.json",
+      "url": "https://gre.myprepclub.com/forum/set-m-consists-of-20-evenly-spaced-integers-10-numbers-of-w-10645.html",
+      "question_preview": "Set M consists of 20 evenly spaced integers, 10 numbers of which are positive and 10 of which are ne",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_average_arithmetic_mean_of_3x_x_and.json",
+      "url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-of-3x-x-and-y-is-equal-to-2x-10646.html",
+      "question_preview": "The average (arithmetic mean) of 3x, x, and y is equal to 2x.\nQuantity A\nQuantity B\n\\(2x\\)\n\\(y\\)\nA) ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_average_arithmetic_mean_of_seven_distinct_integers.json",
+      "url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-of-seven-distinct-integers-is-10647.html",
+      "question_preview": "The average (arithmetic mean) of seven distinct integers is 12, and the least of these integers is –",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "three_numbers_have_a_range_of_2_and.json",
+      "url": "https://gre.myprepclub.com/forum/three-numbers-have-a-range-of-2-and-a-median-of-10648.html",
+      "question_preview": "Three numbers have a range of 2 and a median of 4.4.\nQuantity A\nQuantity B\nThe greatest of the numbe",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

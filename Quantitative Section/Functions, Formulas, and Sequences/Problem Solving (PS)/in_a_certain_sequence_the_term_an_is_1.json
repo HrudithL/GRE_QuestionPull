@@ -1,0 +1,18 @@
+{
+  "question": "In a certain sequence, the term an is defined by the formula \\(a_n = 2 \\times a_{n - 1}\\) for each integer n ≥ 2. If \\(a_1 = 1\\), what is the positive difference between the sum of the first 10 terms of the sequence and the sum of the 11th and 12th terms of the same sequence?\n(A) 1\n(B) 1,024\n(C) 1,025\n(D) 2,048\n(E) 2,049\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "1",
+    "1,024",
+    "1,025",
+    "2,048",
+    "2,049\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/in-a-certain-sequence-the-term-an-is-defined-by-the-formula-10127.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

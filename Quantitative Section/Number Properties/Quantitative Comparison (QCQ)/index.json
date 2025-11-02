@@ -1,0 +1,150 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 24,
+  "questions": [
+    {
+      "filename": "on_a_number_line_the_distance_from_a.json",
+      "url": "https://gre.myprepclub.com/forum/on-a-number-line-the-distance-from-a-to-b-is-4-and-the-dist-10657.html",
+      "question_preview": "On a number line, the distance from A to B is 4 and the distance from B to C is 5.\nQuantity A\nQuanti",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_b_c_and_d_are_consecutive_integers.json",
+      "url": "https://gre.myprepclub.com/forum/a-b-c-and-d-are-consecutive-integers-such-that-a-b-c-10658.html",
+      "question_preview": "a, b, c, and d are consecutive integers such that \\(a < b < c < d\\).\nQuantity A\nQuantity B\nThe avera",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_sum_of_all.json",
+      "url": "https://gre.myprepclub.com/forum/the-sum-of-all-the-odd-integers-from-1-to-100-inclusive-10659.html",
+      "question_preview": "Quantity A\nQuantity B\nThe sum of all the odd integers from 1 to 100, inclusive\nThe sum of all the ev",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__0__y_quantity_a_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/x-0-y-10660.html",
+      "question_preview": "\\(x > 0 > y\\)\nQuantity A\nQuantity B\n\\(x - y\\)\n\\((x + y)^{2}\\)\nA)The quantity in Column A is greater.",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a__b__c__d.json",
+      "url": "https://gre.myprepclub.com/forum/a-b-c-d-10661.html",
+      "question_preview": "\\(a < b < c < d < 0\\)\nQuantity A\nQuantity B\n\\(a - d\\)\n\\(bc\\)\nA)The quantity in Column A is greater.\n",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "ab__0_bc__0_quantity_a.json",
+      "url": "https://gre.myprepclub.com/forum/ab-0-and-bc-10662.html",
+      "question_preview": "\\(ab > 0\\)\n\\(bc < 0\\)\nQuantity A\nQuantity B\n\\(ac\\)\n\\(0\\)\nA)The quantity in Column A is greater.\nB)Th",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "abc__0_b2c__0_quantity_a.json",
+      "url": "https://gre.myprepclub.com/forum/abc-0-and-b-2c-10663.html",
+      "question_preview": "\\(abc < 0\\)\n\\(b^2c > 0\\)\nQuantity A\nQuantity B\n\\(ab\\)\n\\(0\\)\nA)The quantity in Column A is greater.\nB",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_b_and_c_are_integers_such_that.json",
+      "url": "https://gre.myprepclub.com/forum/a-b-and-c-are-integers-such-that-a-b-c-10664.html",
+      "question_preview": "a, b, and c are integers such that \\(a < b < c\\).\nQuantity A\nQuantity B\n\\(\\frac{a+b+c}{3}\\)\n\\(b\\)\nA)",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "attachment_capturepng__2508_kib__viewed_8552.json",
+      "url": "https://gre.myprepclub.com/forum/a-c-and-b-d-10665.html",
+      "question_preview": "Attachment:\nCapture.PNG [ 25.08 KiB | Viewed 8552 times ]\nQuantity A\nQuantity B\n\\(a \\times c\\)\n\\(b \\",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_number_of_distinct.json",
+      "url": "https://gre.myprepclub.com/forum/the-number-of-distinct-factors-of-10666.html",
+      "question_preview": "Quantity A\nQuantity B\nThe number of distinct positive factors of 32\nThe number of distinct positive ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_remainder_when_1011.json",
+      "url": "https://gre.myprepclub.com/forum/the-remainder-when-10-11-is-divided-by-10667.html",
+      "question_preview": "Quantity A\nQuantity B\nThe remainder when \\(10^{11}\\) is divided by 2\n\\(The remainder when [m]3^{13}\\",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "q_is_odd_quantity_a_quantity_b_1q.json",
+      "url": "https://gre.myprepclub.com/forum/q-is-odd-10668.html",
+      "question_preview": "q is odd.\nQuantity A\nQuantity B\n\\((–1)^q\\)\n\\((–1)^{q+1}\\)\nA)The quantity in Column A is greater.\nB)T",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "n_is_a_positive_integer_quantity_a_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/n-is-a-positive-integer-10672.html",
+      "question_preview": "n is a positive integer.\nQuantity A\nQuantity B\n\\((–1)^{4n} \\times (–1)^{202}\\)\n\\((3)^{3} \\times (-5)",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "quantity_a_quantity_b_the_least_prime_number.json",
+      "url": "https://gre.myprepclub.com/forum/the-least-prime-number-greater-than-10674.html",
+      "question_preview": "Quantity A\nQuantity B\nThe least prime number greater than 13\nThe greatest prime number less than 16\n",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_b_and_c_are_positive_even_integers.json",
+      "url": "https://gre.myprepclub.com/forum/a-b-and-c-are-positive-even-integers-such-that-8-a-b-10675.html",
+      "question_preview": "a, b, and c are positive even integers such that 8 > a > b > c.\nQuantity A\nQuantity B\nThe range of a",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_b_and_c_are_consecutive_integers_such.json",
+      "url": "https://gre.myprepclub.com/forum/a-b-and-c-are-consecutive-integers-such-that-a-b-c-10676.html",
+      "question_preview": "a, b, and c are consecutive integers such that a < b < c < 4.\nQuantity A\nQuantity B\nThe range of a, ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "sqrtxy_is_a_prime_number_xy_is_even.json",
+      "url": "https://gre.myprepclub.com/forum/is-a-prime-number-xy-is-even-and-x-4y-10677.html",
+      "question_preview": "\\(\\sqrt{xy}\\) is a prime number, xy is even, and x > 4y > 0.\nQuantity A\nQuantity B\n\\(y\\)\n\\(1\\)\nA)The",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x_is_even_sqrtx_is_a_prime_number.json",
+      "url": "https://gre.myprepclub.com/forum/x-is-even-is-a-prime-number-and-x-y-10678.html",
+      "question_preview": "x is even, \\(\\sqrt{x}\\) is a prime number, and x + y = 11.\nQuantity A\nQuantity B\n\\(x\\)\n\\(y\\)\nA)The q",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_product_of_positive_integers_f_g_and.json",
+      "url": "https://gre.myprepclub.com/forum/the-product-of-positive-integers-f-g-and-h-is-even-and-the-10679.html",
+      "question_preview": "The product of positive integers f, g, and h is even and the product of integers f and g is odd.\nQua",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x2__25_and_x__y.json",
+      "url": "https://gre.myprepclub.com/forum/x2-25-and-x-y-10680.html",
+      "question_preview": "\\(x^2 > 25\\) and \\(x + y < 0\\)\nQuantity A\nQuantity B\nx\ny\nA)The quantity in Column A is greater.\nB)Th",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_positive_integer_a_is_divisible_by_2.json",
+      "url": "https://gre.myprepclub.com/forum/the-positive-integer-a-is-divisible-by-2-and-0-ab-10681.html",
+      "question_preview": "The positive integer a is divisible by 2 and 0 < ab < 1.\nQuantity A\nQuantity B\nb\n\\(\\frac{1}{2}\\)\nA)T",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "p_and_w_are_single_digit_prime_numbers_such.json",
+      "url": "https://gre.myprepclub.com/forum/p-and-w-are-single-digit-prime-numbers-such-that-p-w-10682.html",
+      "question_preview": "p and w are single-digit prime numbers such that \\(p + w < 6\\). \\(p^2\\) is odd.\nQuantity A\nQuantity ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x2__y2_and_x___y_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/x2-y2-and-x-y-10683.html",
+      "question_preview": "\\(x^2 > y^2\\) and \\(x > -|y|\\)\nQuantity A\nQuantity B\nx\ny\nA)The quantity in Column A is greater.\nB)Th",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_sum_of_four_consecutive_integers_is_2.json",
+      "url": "https://gre.myprepclub.com/forum/the-sum-of-four-consecutive-integers-is-10684.html",
+      "question_preview": "The sum of four consecutive integers is –2.\nQuantity A\nQuantity B\nThe smallest of the four integers\n",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

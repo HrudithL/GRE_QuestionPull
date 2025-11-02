@@ -1,0 +1,36 @@
+{
+  "category": "Reading Comprehension (RC)",
+  "total_questions": 5,
+  "questions": [
+    {
+      "filename": "this_question_is_a_part_of_the_5_40.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-during-an-economic-depression-it-is-common-for-food-2096.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nDuring an econ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_41.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-bedbug-infestations-have-been-a-problem-in-major-citi-2097.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nBedbug infesta",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_42.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-dan-flavin-s-alternate-diagonals-of-2099.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nDan Flavin’s a",
+      "question_type": "Multiple Answer Choices (MAC)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_43.json",
+      "url": "https://gre.myprepclub.com/forum/in-keeping-with-the-notable-incorporation-of-operatic-elemen-8835.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nIn keeping wit",
+      "question_type": "Multiple Answer Choices (MAC)"
+    },
+    {
+      "filename": "in_1977_the_community_reinvestment_act_cra_was_10.json",
+      "url": "https://gre.myprepclub.com/forum/in-1977-the-community-reinvestment-act-cra-was-passed-for-8836.html",
+      "question_preview": "In 1977, the Community Reinvestment Act (CRA) was passed for the purpose of reducing discriminatory ",
+      "question_type": "Problem Solving (PS)"
+    }
+  ]
+}

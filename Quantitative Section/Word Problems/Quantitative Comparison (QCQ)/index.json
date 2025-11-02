@@ -1,0 +1,36 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 5,
+  "questions": [
+    {
+      "filename": "kendra_is_more_than_5_years_old_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/kendra-is-more-than-5-years-old-9423.html",
+      "question_preview": "Kendra is more than 5 years old.\nQuantity A\nQuantity B\nFive years less than twice Kendra’s age\nTwice",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "in_a_certain_barter_system_1_sack_of.json",
+      "url": "https://gre.myprepclub.com/forum/in-a-certain-barter-system-1-sack-of-rice-can-be-traded-for-9424.html",
+      "question_preview": "In a certain barter system, 1 sack of rice can be traded for 2.5 pounds of beans or \\(\\frac{1}{3}\\) ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "gerald_bought_a_used_motorcycle_for_1200_and.json",
+      "url": "https://gre.myprepclub.com/forum/gerald-bought-a-used-motorcycle-for-1-200-and-spent-9425.html",
+      "question_preview": "Gerald bought a used motorcycle for $1,200 and spent $305 repairing it. He then sold the motorcycle ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_turbine_salesman_earns_a_commission_of_x.json",
+      "url": "https://gre.myprepclub.com/forum/a-turbine-salesman-earns-a-commission-of-x-of-the-purchase-9426.html",
+      "question_preview": "A turbine salesman earns a commission of x% of the purchase price of every turbine he sells, where x",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "in_8_years_pollys_age_which_is_currently.json",
+      "url": "https://gre.myprepclub.com/forum/in-8-years-polly-s-age-which-is-currently-p-will-be-twice-9621.html",
+      "question_preview": "In 8 years, Polly’s age, which is currently p, will be twice Quan’s age, which is currently q.\nQuant",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

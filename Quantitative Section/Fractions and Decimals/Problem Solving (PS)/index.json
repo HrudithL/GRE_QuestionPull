@@ -1,0 +1,72 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 11,
+  "questions": [
+    {
+      "filename": "two_identical_pies_were_cut_into_a_total.json",
+      "url": "https://gre.myprepclub.com/forum/two-identical-pies-were-cut-into-a-total-of-16-equal-pieces-14261.html",
+      "question_preview": "Two identical pies were cut into a total of 16 equal pieces. If one of the resulting pieces was then",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "which_of_the_following_is_equal_to_fracfracabcfraccda.json",
+      "url": "https://gre.myprepclub.com/forum/which-of-the-following-is-equal-to-14297.html",
+      "question_preview": "Which of the following is equal to \\(\\frac{\\frac{ab}{c}}{\\frac{cd}{a}}\\) for all non-zero values of ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "which_of_the_following_is_equal_to_left.json",
+      "url": "https://gre.myprepclub.com/forum/which-of-the-following-is-equal-to-14298.html",
+      "question_preview": "Which of the following is equal to \\(\\left( \\begin{array}{cc}\\frac{\\sqrt{12}}{5}\\end{array} \\right)\\",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "what_is_the_value_of_sqrtfrac32___sqrtfrac23.json",
+      "url": "https://gre.myprepclub.com/forum/what-is-the-value-of-14310.html",
+      "question_preview": "What is the value of \\(\\sqrt{\\frac{3}{2}} - \\sqrt{\\frac{2}{3}}\\) ?\nA. \\(\\frac{\\sqrt{3} - \\sqrt{2} }{",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "what_is_the_value_of_3_frac1323frac132__a.json",
+      "url": "https://gre.myprepclub.com/forum/what-is-the-value-of-14318.html",
+      "question_preview": "What is the value of \\((3-\\frac{1}{3})^2+(3+\\frac{1}{3})^2\\) ?\nA. \\(\\frac{122}{9}\\)\nB. \\(\\frac{164}{",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_frac3fracm1m__1_1__what_is.json",
+      "url": "https://gre.myprepclub.com/forum/if-3-m-1-m-14319.html",
+      "question_preview": "If \\(\\frac{3}{\\frac{m+1}{m} + 1 }=1\\) , what is the value of m ?\nA. -2\nB. -1\nC. 0\nD. 1\nE. 2\nShow\nHid",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "which_of_the_following_fractions_has_the_greatest.json",
+      "url": "https://gre.myprepclub.com/forum/which-of-the-following-fractions-has-the-greatest-value-14324.html",
+      "question_preview": "Which of the following fractions has the greatest value?\nA. \\(\\frac{7}{16 \\times 25}\\)\nB. \\(\\frac{5}",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "2x_neq_y_5x_neq_4y_what_is.json",
+      "url": "https://gre.myprepclub.com/forum/if-2x-is-different-form-y-14327.html",
+      "question_preview": "\\(2x \\neq y\\)\n\\(5x \\neq 4y\\)\nWhat is the value of \\(\\frac{\\frac{5x-4y}{2x-y}}{\\frac{3y}{y-2x} + 5}\\)",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "what_is_the_value_of_fracfrac39224frac13342__a.json",
+      "url": "https://gre.myprepclub.com/forum/what-is-the-value-of-14328.html",
+      "question_preview": "What is the value of  \\(\\frac{\\frac{39^2}{2^4}}{\\frac{13^3}{4^2}}\\) ?\nA. \\(\\frac{13}{2}\\)\nB. \\(\\frac",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "which_two_of_the_following_numbers_when_added.json",
+      "url": "https://gre.myprepclub.com/forum/which-two-of-the-following-numbers-when-added-together-yie-14316.html",
+      "question_preview": "Which two of the following numbers, when added together, yield a sum between 1 and 2?\nIndicate\ntwo\ns",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "which_three_of_the_following_numbers_when_multiplied.json",
+      "url": "https://gre.myprepclub.com/forum/which-three-of-the-following-numbers-when-multiplied-by-eac-14317.html",
+      "question_preview": "Which three of the following numbers, when multiplied by each other, yield a product less than \\(–1\\",
+      "question_type": "Unknown"
+    }
+  ]
+}

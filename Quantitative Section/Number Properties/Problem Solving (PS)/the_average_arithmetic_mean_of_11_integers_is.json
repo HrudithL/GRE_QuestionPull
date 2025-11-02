@@ -1,0 +1,14 @@
+{
+  "question": "The average (arithmetic mean) of 11 integers is 35. What is the sum of all the integers?",
+  "answer_choices": [
+    "What is the sum of all the integers?Show: :: OA385"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/the-average-arithmetic-mean-of-11-integers-is-35-what-is-11146.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Number Properties",
+  "category": "Number Properties > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

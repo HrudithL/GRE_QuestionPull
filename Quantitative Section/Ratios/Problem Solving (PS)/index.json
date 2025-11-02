@@ -1,0 +1,42 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 6,
+  "questions": [
+    {
+      "filename": "a_pantry_holds_x_cans_of_beans_twice.json",
+      "url": "https://gre.myprepclub.com/forum/a-pantry-holds-x-cans-of-beans-twice-as-many-cans-of-soup-10450.html",
+      "question_preview": "A pantry holds x cans of beans, twice as many cans of soup, and half as many cans of tomato paste as",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_beth_has_frac14_more_money_than_ari.json",
+      "url": "https://gre.myprepclub.com/forum/if-beth-has-more-money-than-ari-and-each-person-has-an-inte-10451.html",
+      "question_preview": "If Beth has \\(\\frac{1}{4}\\) MORE money than Ari, and each person has an integer number of dollars, w",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_salesperson_a_sold_35_more_motorcycles_than.json",
+      "url": "https://gre.myprepclub.com/forum/if-salesperson-a-sold-35-more-motorcycles-than-salesperson-10452.html",
+      "question_preview": "If salesperson A sold 35% more motorcycles than salesperson B, which of the following could be the t",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "a_zoo_has_twice_as_many_zebras_as.json",
+      "url": "https://gre.myprepclub.com/forum/a-zoo-has-twice-as-many-zebras-as-lions-and-four-times-as-ma-10453.html",
+      "question_preview": "A zoo has twice as many zebras as lions and four times as many monkeys as zebras. Which of the follo",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_ratio_of_cheese_to_sauce_for_a.json",
+      "url": "https://gre.myprepclub.com/forum/the-ratio-of-cheese-to-sauce-for-a-single-pizza-is-1-cup-to-10448.html",
+      "question_preview": "The ratio of cheese to sauce for a single pizza is 1 cup to \\(\\frac{1}{2}\\) cup. If Bob used 15 cups",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "laura_established_a_new_flower_garden_planting_4.json",
+      "url": "https://gre.myprepclub.com/forum/laura-established-a-new-flower-garden-planting-4-tulip-plan-10449.html",
+      "question_preview": "Laura established a new flower garden, planting 4 tulip plants for every 1 rose plant, and no other ",
+      "question_type": "Unknown"
+    }
+  ]
+}

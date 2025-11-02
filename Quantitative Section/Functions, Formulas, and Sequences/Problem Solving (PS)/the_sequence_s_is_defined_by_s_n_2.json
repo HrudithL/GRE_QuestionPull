@@ -1,0 +1,18 @@
+{
+  "question": "The sequence S is defined by \\(S_n = S_{n - 1} + S{n - 2} - 1\\) for each integer n ≥ 3. If \\(S_1 = 11\\) and \\(S_3 = 10\\), what is the value of \\(S_5\\)?\n(A) 0\n(B) 9\n(C) 10\n(D) 18\n(E) 19\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "0",
+    "9",
+    "10",
+    "18",
+    "19\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/the-sequence-s-is-defined-by-sn-sn-1-sn-2-1-for-ea-10108.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

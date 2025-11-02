@@ -1,0 +1,36 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 5,
+  "questions": [
+    {
+      "filename": "quantity_a_quantity_b_00_overline1410_0_overline0141.json",
+      "url": "https://gre.myprepclub.com/forum/0-01410-or-9368.html",
+      "question_preview": "Quantity A\nQuantity B\n\\(0.0 \\overline{1410}\\)\n\\(0. \\overline{0141}\\)\nA) Quantity A is greater.\nB) Qu",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "a_certain_bookstore_sells_only_paperbacks_and_hardbacks.json",
+      "url": "https://gre.myprepclub.com/forum/a-certain-bookstore-sells-only-paperbacks-and-hardbacks-eac-9369.html",
+      "question_preview": "A certain bookstore sells only paperbacks and hardbacks. Each of the 200 paperbacks in stock sells f",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "attachment_greprepclub_the_slope_of_line_segment_abjpg.json",
+      "url": "https://gre.myprepclub.com/forum/the-slope-of-line-segment-ab-10024.html",
+      "question_preview": "Attachment:\n#greprepclub The slope of line segment AB.jpg [ 19.91 KiB | Viewed 9182 times ]\nQuantity",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "attachment_greprepclub_in_the_figure_above_the_circle.json",
+      "url": "https://gre.myprepclub.com/forum/in-the-figure-above-the-circle-is-inscribed-in-a-square-tha-10025.html",
+      "question_preview": "Attachment:\n#greprepclub In the figure above, the circle is inscribed in a square.jpg [ 16.42 KiB | ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "in_triangle_abc_ab__12_ac.json",
+      "url": "https://gre.myprepclub.com/forum/in-triangle-abc-ab-12-ac-10-and-bc-10029.html",
+      "question_preview": "In triangle ABC, AB = 12, AC = 10, and BC = 5.\nQuantity A\nQuantity B\nThe measure of angle A\nThe meas",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

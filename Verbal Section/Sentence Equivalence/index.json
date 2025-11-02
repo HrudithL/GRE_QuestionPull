@@ -1,0 +1,840 @@
+{
+  "category": "Sentence Equivalence",
+  "total_questions": 139,
+  "questions": [
+    {
+      "filename": "this_question_is_a_part_of_the_5.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-while-the-colonists-would-eventually-push-westward-2122.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nWhile the colo",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_1.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-james-joyce-the-author-of-many-novels-including-fin-2123.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nJames Joyce, t",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_2.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-at-work-she-is-far-less-than-she-is-around-2124.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nAt work, she i",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_3.json",
+      "url": "https://gre.myprepclub.com/forum/forty-years-ago-anthropologists-firmly-believed-that-neande-7031.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nForty years ag",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_music_of_the_late_70s_is_often.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-9-the-music-of-the-late-70s-is-often-described-as-2185.html",
+      "question_preview": "The music of the late ’70s is often described as _________ , despite the notable exception of a few ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "a_field_trip_was_arranged_so_that_this.json",
+      "url": "https://gre.myprepclub.com/forum/a-field-trip-was-arranged-so-that-this-troupe-of-7033.html",
+      "question_preview": "A field trip was arranged so that this troupe of _________ dancers could observe the real masters of",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_exhibit_is_not_so_much_a_retrospective.json",
+      "url": "https://gre.myprepclub.com/forum/sentence-equivalence-16-exhibit-is-not-so-much-a-retrospect-398.html",
+      "question_preview": "The exhibit is not so much a retrospective as a __________ ; the artist’s weaker early work is gloss",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_4.json",
+      "url": "https://gre.myprepclub.com/forum/after-a-long-hard-practice-in-the-summer-sun-the-players-7047.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nAfter a long, ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_5.json",
+      "url": "https://gre.myprepclub.com/forum/nothing-evoked-memories-of-her-grandmother-s-house-like-the-7048.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nNothing evoked",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_6.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-14-unlike-the-politician-s-earlier-evasions-and-equivo-2213.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nUnlike the pol",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_7.json",
+      "url": "https://gre.myprepclub.com/forum/possessed-of-a-lighthearted-approach-to-life-winnie-thought-7050.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nPossessed of a",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_8.json",
+      "url": "https://gre.myprepclub.com/forum/for-most-of-the-20th-century-american-political-contentions-7053.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nFor most of th",
+      "question_type": "Numeric Entry (NE)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_9.json",
+      "url": "https://gre.myprepclub.com/forum/where-gay-and-lesbian-individuals-and-couples-were-once-igno-9046.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nWhere gay and ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_10.json",
+      "url": "https://gre.myprepclub.com/forum/though-considered-a-somewhat-somber-drama-at-the-time-of-its-7054.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nThough conside",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_11.json",
+      "url": "https://gre.myprepclub.com/forum/with-almost-40-titles-to-her-name-the-popular-novelist-has-9047.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nWith almost 40",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_12.json",
+      "url": "https://gre.myprepclub.com/forum/with-almost-40-titles-to-her-name-the-popular-novelist-has-15571.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nRepresentative",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_13.json",
+      "url": "https://gre.myprepclub.com/forum/because-the-lewis-and-clark-expedition-through-the-west-was-7057.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nBecause the Le",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_14.json",
+      "url": "https://gre.myprepclub.com/forum/many-people-erroneously-believe-that-humans-are-naturally-9048.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nMany people er",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_15.json",
+      "url": "https://gre.myprepclub.com/forum/geneticists-find-iceland-a-living-laboratory-for-the-study-7059.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nGeneticists fi",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_16.json",
+      "url": "https://gre.myprepclub.com/forum/given-the-influx-of-information-via-social-media-the-only-7060.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nGiven the infl",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book.json",
+      "url": "https://gre.myprepclub.com/forum/although-accommodating-in-person-george-orwell-7061.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAlthough acc",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_1.json",
+      "url": "https://gre.myprepclub.com/forum/although-historically-paints-were-often-tinted-with-toxic-7062.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAlthough his",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_2.json",
+      "url": "https://gre.myprepclub.com/forum/the-phrase-gilding-the-lily-is-a-late-19th-century-express-7063.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe phrase “",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "while_she_still_advocated_for_the_wholesale_restructuring.json",
+      "url": "https://gre.myprepclub.com/forum/while-she-still-advocated-for-the-wholesale-restructuring-of-society-b-35097.html",
+      "question_preview": "While she still advocated for the wholesale restructuring of society based on principles of equity a",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_3.json",
+      "url": "https://gre.myprepclub.com/forum/a-mycenaean-waist-refers-to-the-taut-impossibly-small-7065.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nA “Mycenaean",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_commentators_analysis_of_the_recent_conflict_was.json",
+      "url": "https://gre.myprepclub.com/forum/the-commentator-s-analysis-of-the-recent-conflict-was-anything-but-35099.html",
+      "question_preview": "The commentator’s analysis of the recent conflict was anything but ________; he parroted his ideolog",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_4.json",
+      "url": "https://gre.myprepclub.com/forum/in-uncertain-times-theories-often-gain-greater-7067.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIn uncertain",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "each_civil_engineer_in_the_firm_acted_as.json",
+      "url": "https://gre.myprepclub.com/forum/each-civil-engineer-in-the-firm-acted-as-the-others-no-one-s-35100.html",
+      "question_preview": "Each civil engineer in the firm acted as ________ the others: no one submitted a construction projec",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_5.json",
+      "url": "https://gre.myprepclub.com/forum/arthur-conan-doyle-s-upstanding-hero-sherlock-holmes-engages-7070.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nArthur Conan",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_6.json",
+      "url": "http://gre.myprepclub.com/forum/the-etymologies-of-the-words-alpha-and-omega-couldn-t-be-7071.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe etymolog",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_7.json",
+      "url": "https://gre.myprepclub.com/forum/while-the-muted-colors-do-suggest-a-certain-sobriety-the-7072.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nWhile the mu",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_8.json",
+      "url": "http://gre.myprepclub.com/forum/although-the-system-s-is-not-currently-in-dispute-7073.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAlthough the",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "response_to_the_provocative_proposal_was_predictably.json",
+      "url": "https://gre.myprepclub.com/forum/response-to-the-provocative-proposal-was-predictably-little-35103.html",
+      "question_preview": "Response to the provocative proposal was predictably ________: little care was given to the concealm",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_prime_minister_affected_empathy_for_the_impoverished.json",
+      "url": "https://gre.myprepclub.com/forum/the-prime-minister-affected-empathy-for-the-impoverished-citizenry-bu-35104.html",
+      "question_preview": "The prime minister affected empathy for the impoverished citizenry, but most economic historians bel",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "while_traveling_to_the_spas_remote_location_could.json",
+      "url": "https://gre.myprepclub.com/forum/while-traveling-to-the-spa-s-remote-location-could-be-hectic-visitors-35105.html",
+      "question_preview": "While traveling to the spa’s remote location could be hectic, visitors to the spa more than made up ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_man_looked_much_older_than_his_70.json",
+      "url": "https://gre.myprepclub.com/forum/the-man-looked-much-older-than-his-70-years-his-frame-looki-35106.html",
+      "question_preview": "The man looked much older than his 70 years, his _________ frame looking as though it had endured at",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_9.json",
+      "url": "https://gre.myprepclub.com/forum/the-children-s-attempt-at-a-mother-s-day-brunch-was-7078.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe children",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "many_major_websites_today_have__________privacy_policy.json",
+      "url": "https://gre.myprepclub.com/forum/many-major-websites-today-have-privacy-policy-written-by-law-35107.html",
+      "question_preview": "Many major websites today have ________ privacy policy: written by lawyers to protect the website th",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "though_chronicling_the_heroism_and_sacrifice_of_the.json",
+      "url": "https://gre.myprepclub.com/forum/though-chronicling-the-heroism-and-sacrifice-of-the-common-soldier-er-35122.html",
+      "question_preview": "Though chronicling the heroism and sacrifice of the common soldier, Erich Remarque’s classic novel, ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_10.json",
+      "url": "https://gre.myprepclub.com/forum/just-months-from-retirement-the-disgraced-executive-was-for-7081.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nJust months ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_11.json",
+      "url": "https://gre.myprepclub.com/forum/in-scandal-the-company-could-regain-favor-with-customers-on-7082.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\n_________ in",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_12.json",
+      "url": "https://gre.myprepclub.com/forum/by-framing-the-new-law-as-a-question-of-urgent-safety-rather-7084.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nBy framing t",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_13.json",
+      "url": "https://gre.myprepclub.com/forum/exactly-which-bird-species-fell-victim-first-to-the-deadly-7085.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nExactly whic",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "although_known_for_bon_mots_such_as_if.json",
+      "url": "https://gre.myprepclub.com/forum/although-known-for-bon-mots-such-as-if-you-don-t-have-anything-nice-35125.html",
+      "question_preview": "Although known for bon mots such as, “If you don’t have anything nice to say about anybody, come sit",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "always_on_the_lookout_for_a_shady_deal.json",
+      "url": "https://gre.myprepclub.com/forum/always-on-the-lookout-for-a-shady-deal-or-quick-con-she-became-known-35126.html",
+      "question_preview": "Always on the lookout for a shady deal or quick con, she became known and scorned as an ________ opp",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_14.json",
+      "url": "https://gre.myprepclub.com/forum/after-many-hours-of-debate-things-seemed-to-have-reached-7088.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAfter many h",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_15.json",
+      "url": "https://gre.myprepclub.com/forum/while-kidney-stones-are-known-to-produce-a-truly-7089.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nWhile kidney",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "given_the_breadth_and_speed_of_social_media.json",
+      "url": "https://gre.myprepclub.com/forum/given-the-breadth-and-speed-of-social-media-the-only-way-celebrities-35131.html",
+      "question_preview": "Given the breadth and speed of social media, the only way celebrities can hope to conceal their foib",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_16.json",
+      "url": "https://gre.myprepclub.com/forum/the-director-of-the-musical-admitted-that-while-he-was-very-7091.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe director",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_17.json",
+      "url": "https://gre.myprepclub.com/forum/though-most-technology-used-in-the-manufacture-of-bicycles-7092.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThough most ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "through__________antics_that_flouted_the_conventions_of.json",
+      "url": "https://gre.myprepclub.com/forum/through-antics-that-flouted-the-conventions-of-the-establishm-35200.html",
+      "question_preview": "Through ________ antics that flouted the conventions of the establishment, the Yippies of the late 1",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_18.json",
+      "url": "https://gre.myprepclub.com/forum/comes-at-a-price-research-suggests-that-among-first-generat-7094.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nSometimes __",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_19.json",
+      "url": "https://gre.myprepclub.com/forum/many-enlightenment-philosophers-viewed-machiavelli-s-book-as-7095.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nMany Enlight",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_20.json",
+      "url": "https://gre.myprepclub.com/forum/the-defendant-impressed-the-jurors-as-they-did-7096.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe defendan",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_21.json",
+      "url": "https://gre.myprepclub.com/forum/crucial-to-fostering-a-realistic-understanding-of-the-potent-7097.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nCrucial to f",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "millions_of_dollars_over_budget_and_months_late.json",
+      "url": "https://gre.myprepclub.com/forum/millions-of-dollars-over-budget-and-months-late-the-planned-software-35203.html",
+      "question_preview": "Millions of dollars over budget and months late, the planned software was finally ready for release,",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_22.json",
+      "url": "http://gre.myprepclub.com/forum/robert-gottlieb-who-otherwise-found-much-to-admire-in-john-7099.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nRobert Gottl",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_mayors__________speech_turned_the_bipartisan_issuetraffic.json",
+      "url": "https://gre.myprepclub.com/forum/the-mayor-s-speech-turned-the-bipartisan-issue-traffic-reduct-35204.html",
+      "question_preview": "The mayor’s ________ speech turned the bipartisan issue—traffic reduction—into a three-month-long fi",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_23.json",
+      "url": "http://gre.myprepclub.com/forum/in-his-writings-after-visiting-new-york-albert-camus-expres-7101.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIn his writi",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "technological_advances_in_communicationsuch_as_computers_and_textinghave.json",
+      "url": "https://gre.myprepclub.com/forum/technological-advances-in-communication-such-as-computers-and-texting-35205.html",
+      "question_preview": "Technological advances in communication—such as computers and texting—have caused the teaching of cu",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_24.json",
+      "url": "http://gre.myprepclub.com/forum/it-is-in-the-best-interest-of-criminal-defendants-to-appear-7103.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIt is in the",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "after_25_years_as_an_emergency_room_surgeon.json",
+      "url": "https://gre.myprepclub.com/forum/after-25-years-as-an-emergency-room-surgeon-his-reaction-during-nearl-35211.html",
+      "question_preview": "After 25 years as an emergency room surgeon, his reaction during nearly any emergency could only be ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_25.json",
+      "url": "https://gre.myprepclub.com/forum/despite-the-blandishments-of-the-real-estate-con-artist-the-7105.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nDespite the ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "in_response_to_a_recent_editorial_slamming_the.json",
+      "url": "https://gre.myprepclub.com/forum/in-response-to-a-recent-editorial-slamming-the-agency-s-newest-adverti-35218.html",
+      "question_preview": "In response to a recent editorial slamming the agency’s newest advertising campaign, the agency spok",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_26.json",
+      "url": "https://gre.myprepclub.com/forum/in-the-week-that-followed-the-climber-s-disappearance-inter-7107.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIn the week ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "that_investments_abated_so_dramatically_in_the_final.json",
+      "url": "https://gre.myprepclub.com/forum/that-investments-abated-so-dramatically-in-the-final-quarter-of-last-y-35220.html",
+      "question_preview": "That investments abated so dramatically in the final quarter of last year is surprising given the ma",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_27.json",
+      "url": "https://gre.myprepclub.com/forum/the-tragedy-and-the-resultant-horrific-loss-of-life-and-7109.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe tragedy ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the__________that_marks_the_composers_more_recent.json",
+      "url": "https://gre.myprepclub.com/forum/the-that-marks-the-composer-s-more-recent-work-represents-a-m-35221.html",
+      "question_preview": "The ________ that marks the composer’s more recent work represents a major departure from the experi",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_28.json",
+      "url": "https://gre.myprepclub.com/forum/although-they-were-already-late-for-the-formal-reception-7111.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAlthough the",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_29.json",
+      "url": "http://gre.myprepclub.com/forum/the-player-s-exploits-both-on-the-field-and-in-the-finest-7112.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe player’s",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "to_the_casual_observer_the_desert_appears.json",
+      "url": "https://gre.myprepclub.com/forum/to-the-casual-observer-the-desert-appears-place-those-who-l-35222.html",
+      "question_preview": "To the casual observer, the desert appears ________ place; those who look deeper, however, discover ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_30.json",
+      "url": "https://gre.myprepclub.com/forum/the-presidential-candidate-known-not-only-for-the-deeply-re-7114.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe presiden",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "while_her_friends_agree_that_she_projects_an.json",
+      "url": "https://gre.myprepclub.com/forum/while-her-friends-agree-that-she-projects-an-air-of-affability-they-a-35224.html",
+      "question_preview": "While her friends agree that she projects an air of affability, they are of two minds about whether ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_31.json",
+      "url": "https://gre.myprepclub.com/forum/to-avoid-a-lengthy-prison-term-the-convicted-financier-7116.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nTo avoid a l",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "some_religious_adherents_follow_the_letter_of_their.json",
+      "url": "https://gre.myprepclub.com/forum/some-religious-adherents-follow-the-letter-of-their-particular-traditi-35225.html",
+      "question_preview": "Some religious adherents follow the letter of their particular tradition while simultaneously ______",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "it_is_perplexing_that_the_number_of_phd.json",
+      "url": "https://gre.myprepclub.com/forum/it-is-perplexing-that-the-number-of-phd-applicants-in-linguistics-so-35227.html",
+      "question_preview": "It is perplexing that the number of PhD applicants in linguistics, so obviously a ________ field, ha",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "writers_particularly_those_of_the_contemplative_persuasion_have.json",
+      "url": "https://gre.myprepclub.com/forum/writers-particularly-those-of-the-contemplative-persuasion-have-alwa-35228.html",
+      "question_preview": "Writers, particularly those of the contemplative persuasion, have always found the ________ nature o",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_32.json",
+      "url": "https://gre.myprepclub.com/forum/though-the-majority-of-rules-in-sports-are-physically-7120.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThough the m",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "many_people_think_that_antibiotics_are_a_cure_all.json",
+      "url": "https://gre.myprepclub.com/forum/many-people-think-that-antibiotics-are-a-cure-all-but-these-medicatio-35229.html",
+      "question_preview": "Many people think that antibiotics are a cure-all, but these medications can actually ________ the p",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_33.json",
+      "url": "https://gre.myprepclub.com/forum/sandra-was-entirely-by-the-crossword-puzzle-which-7122.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nSandra was e",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "while_many_teachers_say_they_are_keen_on.json",
+      "url": "https://gre.myprepclub.com/forum/while-many-teachers-say-they-are-keen-on-the-idea-of-participatory-ped-35271.html",
+      "question_preview": "While many teachers say they are keen on the idea of participatory pedagogy, they often have little ",
+      "question_type": "Numeric Entry (NE)"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_34.json",
+      "url": "https://gre.myprepclub.com/forum/the-subject-of-the-documentary-was-not-bothered-that-the-7124.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe subject ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_35.json",
+      "url": "https://gre.myprepclub.com/forum/the-thin-blue-line-a-documentary-by-errol-morris-is-one-of-7125.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe Thin Blu",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "most_people_expect_to_see_straightforward_and_direct.json",
+      "url": "https://gre.myprepclub.com/forum/most-people-expect-to-see-straightforward-and-direct-cause-and-effect-35280.html",
+      "question_preview": "Most people expect to see straightforward and direct cause-and-effect relationships between actions ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_professors_belief_that_all_of_the_students.json",
+      "url": "https://gre.myprepclub.com/forum/the-professor-s-belief-that-all-of-the-students-admitted-to-the-univer-35290.html",
+      "question_preview": "The professor’s belief that all of the students admitted to the university were well-qualified acade",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_36.json",
+      "url": "https://gre.myprepclub.com/forum/in-a-way-the-environmental-movement-can-still-be-said-to-be-7128.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIn a way, th",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_37.json",
+      "url": "https://gre.myprepclub.com/forum/einstein-s-idea-that-electromagnetic-radiation-was-divided-7129.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nEinstein’s i",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_plan_according_to_law_enforcement_and_judicial.json",
+      "url": "https://gre.myprepclub.com/forum/the-plan-according-to-law-enforcement-and-judicial-officials-was-to-35291.html",
+      "question_preview": "The plan, according to law enforcement and judicial officials, was to keep the prisoner ________ dur",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_38.json",
+      "url": "https://gre.myprepclub.com/forum/the-painter-was-just-as-famous-for-his-personality-as-for-7131.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe painter ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_39.json",
+      "url": "https://gre.myprepclub.com/forum/the-newest-romantic-comedy-wasn-t-exactly-bad-but-simply-7132.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe newest r",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_40.json",
+      "url": "https://gre.myprepclub.com/forum/an-obsession-with-aesthetics-all-the-work-of-the-7133.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAn obsession",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_41.json",
+      "url": "https://gre.myprepclub.com/forum/oftentimes-when-administrators-force-teachers-to-cleave-too-7134.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nOftentimes, ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_federal_government_knows_that_a_certain_level.json",
+      "url": "https://gre.myprepclub.com/forum/the-federal-government-knows-that-a-certain-level-of-financial-stabili-35292.html",
+      "question_preview": "The federal government knows that a certain level of financial stability can be attained by lowering",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_42.json",
+      "url": "https://gre.myprepclub.com/forum/even-though-mariposa-loved-taking-on-roles-that-involved-a-7136.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nEven though ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "because_the_united_states_has_become_a_mature.json",
+      "url": "https://gre.myprepclub.com/forum/because-the-united-states-has-become-a-mature-established-nation-the-35299.html",
+      "question_preview": "Because the United States has become a mature, established nation, the ________ nature of Thomas Pai",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "a_professional_spy_he_always_affected_a.json",
+      "url": "https://gre.myprepclub.com/forum/a-professional-spy-he-always-affected-a-demeanor-but-those-35300.html",
+      "question_preview": "A professional spy, he always affected a _________ demeanor, but those who disliked him often charac",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_43.json",
+      "url": "https://gre.myprepclub.com/forum/though-hamlet-is-famous-for-being-he-still-manage-7139.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThough Hamle",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_44.json",
+      "url": "https://gre.myprepclub.com/forum/it-s-worth-wondering-if-the-increase-in-diagnoses-of-7140.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIt’s worth w",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_45.json",
+      "url": "https://gre.myprepclub.com/forum/proust-proved-that-the-can-be-the-domain-of-the-7141.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nProust prove",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_magazines_editor_was_known_to_be_a.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-16-the-magazine-s-editor-was-known-to-be-a-very-busy-w-2314.html",
+      "question_preview": "The magazine’s editor was known to be a very busy woman, so it was important when speaking with her ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_reclusive_boy_was_thought_to_be_less.json",
+      "url": "https://gre.myprepclub.com/forum/the-reclusive-boy-was-thought-to-be-less-than-clever-but-at-sixteen-h-35301.html",
+      "question_preview": "The reclusive boy was thought to be less than clever, but at sixteen he wrote a complex and beautifu",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "many_poets__________the_primacy_of_meter_over.json",
+      "url": "https://gre.myprepclub.com/forum/many-poets-the-primacy-of-meter-over-words-stephen-fry-in-h-35302.html",
+      "question_preview": "Many poets ________ the primacy of meter over words: Stephen Fry, in his book, The Ode Less Traveled",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_46.json",
+      "url": "https://gre.myprepclub.com/forum/the-saying-time-stops-for-no-man-also-applies-to-rock-and-7145.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe saying “",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_47.json",
+      "url": "https://gre.myprepclub.com/forum/isherwood-s-sympathy-for-communism-during-the-interwar-7146.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nIsherwood’s ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_48.json",
+      "url": "https://gre.myprepclub.com/forum/academic-freedom-does-not-protect-a-professor-s-classroom-7147.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nAcademic fre",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_49.json",
+      "url": "https://gre.myprepclub.com/forum/unbridled-passion-whether-rage-or-ardor-gives-way-to-the-7148.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nUnbridled pa",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_50.json",
+      "url": "https://gre.myprepclub.com/forum/the-tremendous-wealth-of-ancient-life-on-display-as-part-of-7149.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe tremendo",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_51.json",
+      "url": "https://gre.myprepclub.com/forum/the-judge-s-keen-eye-for-sussing-out-the-pretension-of-the-7159.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe judge’s ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_52.json",
+      "url": "https://gre.myprepclub.com/forum/the-amount-of-self-abasement-with-which-the-inmate-7160.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe amount o",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_53.json",
+      "url": "https://gre.myprepclub.com/forum/the-cult-members-treated-their-leader-with-loyalty-7161.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe cult mem",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_54.json",
+      "url": "https://gre.myprepclub.com/forum/jefferson-regarded-sumptuous-living-as-among-the-most-7162.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nJefferson re",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_55.json",
+      "url": "https://gre.myprepclub.com/forum/theology-was-once-regarded-as-the-queen-of-the-sciences-7163.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nTheology was",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_part_of_5_lb_book_56.json",
+      "url": "https://gre.myprepclub.com/forum/the-new-particles-produced-by-cern-s-large-hadron-collider-a-7164.html",
+      "question_preview": "This question is part of 5 lb. Book of GRE® Practice Problems Verbal Question Directory\nThe new part",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "while_the_professor_first_achieved_renown_for_the.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-28-while-the-professor-first-achieved-renown-for-the-2459.html",
+      "question_preview": "While the professor first achieved renown for the theory he devised single-handedly during the early",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "although_the_medias_coverage_of_the_event_was.json",
+      "url": "https://gre.myprepclub.com/forum/although-the-media-s-coverage-of-the-event-was-lackluster-the-organiz-35310.html",
+      "question_preview": "Although the media’s coverage of the event was lackluster, the organizers still felt it was ________",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "lady_astor_once_commented_to_winston_churchill_if.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-21-lady-astor-once-commented-to-winston-churchill-2452.html",
+      "question_preview": "Lady Astor once commented to Winston Churchill, “If I were married to you, I’d put poison in your co",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_teacher_was_well_loved_by_students_but_he.json",
+      "url": "https://gre.myprepclub.com/forum/the-teacher-was-well-loved-by-students-but-he-never-the-work-35312.html",
+      "question_preview": "The teacher was well-loved by students, but he never ________ the work of teaching; in fact, plannin",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_teacher_was_no__________although_she_felt.json",
+      "url": "https://gre.myprepclub.com/forum/the-teacher-was-no-although-she-felt-she-had-to-maintain-the-35313.html",
+      "question_preview": "The teacher was no ________, although she felt she had to maintain the appearance of an authority fi",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_actress_was_young_but_not__________she.json",
+      "url": "https://gre.myprepclub.com/forum/the-actress-was-young-but-not-she-knew-manipulation-when-she-35326.html",
+      "question_preview": "The actress was young but not ________; she knew manipulation when she saw it, and she resisted bein",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_qquad_of_recent_national_political_discourse_is.json",
+      "url": "https://gre.myprepclub.com/forum/the-of-recent-national-political-35457.html",
+      "question_preview": "The $\\(\\qquad\\)$ of recent national political discourse is matched only by the seriousness of the pr",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "martin_luther_king_jr_was_more_qquad_than.json",
+      "url": "https://gre.myprepclub.com/forum/martin-luther-king-jr-was-more-qquad-than-is-commonly-thought-tod-35458.html",
+      "question_preview": "Martin Luther King, Jr. was more $\\(\\qquad\\)$ than is commonly thought today; it was only in the pos",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "while_it_would_help_to_offset_a_portion.json",
+      "url": "https://gre.myprepclub.com/forum/while-it-would-help-to-offset-a-portion-of-the-expenses-of-the-renovat-35462.html",
+      "question_preview": "While it would help to offset a portion of the expenses of the renovation project, which had been fa",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "aviation_authorities_at_one_time_issued_qquad_guidelines.json",
+      "url": "https://gre.myprepclub.com/forum/aviation-authorities-at-one-time-issued-qquad-guidelines-for-hobbyi-35463.html",
+      "question_preview": "Aviation authorities at one time issued $\\(\\qquad\\)$ guidelines for hobbyists flying model airplanes",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_so_called_reality_television_show_claimed_to_display.json",
+      "url": "https://gre.myprepclub.com/forum/the-so-called-reality-television-show-claimed-to-display-the-qquad-35464.html",
+      "question_preview": "The so-called \"reality\" television show claimed to display the $\\(\\qquad\\)$ side of the starlet's li",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_problem_with_listening_to_prognosticators_especially_in_an.json",
+      "url": "https://gre.myprepclub.com/forum/the-problem-with-listening-to-prognosticators-especially-in-an-age-whe-35465.html",
+      "question_preview": "The problem with listening to prognosticators-especially in an age when no one seeks to hold them ac",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_the_allegations_turn_out_to_be_true.json",
+      "url": "https://gre.myprepclub.com/forum/if-the-allegations-turn-out-to-be-true-and-the-school-s-administrators-35466.html",
+      "question_preview": "If the allegations turn out to be true and the school's administrators are found to be $\\(\\qquad\\)$ ",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_authors_characterization_of_unions_as_always_inimical.json",
+      "url": "https://gre.myprepclub.com/forum/the-author-s-characterization-of-unions-as-always-inimical-35467.html",
+      "question_preview": "The author's characterization of unions as always inimical to economic growth is too $\\(\\qquad\\)$ fo",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "thomas_pynchon_became_a_renowned_writer_despite_the.json",
+      "url": "https://gre.myprepclub.com/forum/thomas-pynchon-became-a-renowned-writer-despite-the-glaring-eccentrici-35468.html",
+      "question_preview": "Thomas Pynchon became a renowned writer despite the glaring eccentricity of his work; he seemingly i",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "many_if_not_most_sociologists_subscribe_to_the.json",
+      "url": "https://gre.myprepclub.com/forum/many-if-not-most-sociologists-subscribe-to-the-idea-that-humans-are-35469.html",
+      "question_preview": "Many, if not most, sociologists subscribe to the idea that humans are $\\(\\qquad\\)$ but the public re",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "in_romance_novels_a_strapping_hero_often_qquad.json",
+      "url": "https://gre.myprepclub.com/forum/in-romance-novels-a-strapping-hero-often-qquad-a-rapier-in-the-ser-35470.html",
+      "question_preview": "In romance novels, a strapping hero often $\\(\\qquad\\)$ a rapier in the service of an ennobled yet su",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "mr_gupta_announced_that_his_centrist_party_would.json",
+      "url": "https://gre.myprepclub.com/forum/mr-gupta-announced-that-his-centrist-party-would-pursue-prudent-polic-35471.html",
+      "question_preview": "Mr. Gupta announced that his centrist party would pursue prudent policies, courses that were progres",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "a_problem_in_modern_industrial_nations_a_designation_that.json",
+      "url": "https://gre.myprepclub.com/forum/a-problem-in-modern-industrial-nations-a-designation-that-now-encompas-35472.html",
+      "question_preview": "A problem in modern industrial nations-a designation that now encompasses more than the United State",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_abilities_of_microorganisms_to_adapt_to_sweeping.json",
+      "url": "https://gre.myprepclub.com/forum/the-abilities-of-microorganisms-to-adapt-to-sweeping-environmental-cha-35473.html",
+      "question_preview": "The abilities of microorganisms to adapt to sweeping environmental changes are more $\\(\\qquad\\)$ tha",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "despite_her_reputation_for_conservative_play_as_of.json",
+      "url": "https://gre.myprepclub.com/forum/despite-her-reputation-for-conservative-play-as-of-late-polgar-s-che-35474.html",
+      "question_preview": "Despite her reputation for conservative play, as of late, Polgar's chess has been full of $\\(\\qquad\\",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "only_by_overlooking_the_grievances_frequently_expressed_by.json",
+      "url": "https://gre.myprepclub.com/forum/only-by-overlooking-the-grievances-frequently-expressed-by-her-constit-35475.html",
+      "question_preview": "Only by overlooking the grievances frequently expressed by her constituency could the incumbent thin",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "though_often_equivocal_in_making_decisions_he_was.json",
+      "url": "https://gre.myprepclub.com/forum/though-often-equivocal-in-making-decisions-he-was-qquad-in-his-res-35476.html",
+      "question_preview": "Though often equivocal in making decisions, he was $\\(\\qquad\\)$ in his resolve upon reaching a verdi",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_expansion_proposal_which_the_school_board_affirms.json",
+      "url": "https://gre.myprepclub.com/forum/the-expansion-proposal-which-the-school-board-affirms-will-maximize-e-35477.html",
+      "question_preview": "The expansion proposal, which the school board affirms will maximize efficiency while maintaining $\\",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_bridge_players_frequent_errors_although_frustrating_for.json",
+      "url": "https://gre.myprepclub.com/forum/the-bridge-player-s-frequent-errors-although-frustrating-for-his-part-35478.html",
+      "question_preview": "The bridge player's frequent errors, although frustrating for his partner, were $\\(\\qquad\\)$ his def",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "the_medical_study_contains_a_glaring_deficiency_it.json",
+      "url": "https://gre.myprepclub.com/forum/the-medical-study-contains-a-glaring-deficiency-it-assumes-that-the-r-35479.html",
+      "question_preview": "The medical study contains a glaring deficiency: it assumes that the results are $\\(\\qquad\\)$ , howe",
+      "question_type": "Unknown"
+    }
+  ]
+}

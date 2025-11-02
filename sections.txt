@@ -1,0 +1,46 @@
+
+Section 1: Math Diagnostic Test & Verbal Diagnostic Test
+
+
+
+Section 2: The Verbal Section
+
+Sub-sections:
+    Text Completion
+    Sentence Equivalence
+    Reading Comprehension
+    Passage Paragraph Argument
+
+
+
+
+Section 3: The Quant Section
+
+Sub-sections:
+    Arithmetic
+    Exponents and Roots
+    Linear and Quadratic Equations
+    Functions, Formulas, and Sequences
+    Inequalities and Absolute Values
+    Divisibility and Primes
+    Number Properties
+    Fractions and Decimals
+    Percents
+    Ratios
+    Word Problems
+    Two Variables Word Problems
+    Averages, Weighted Averages, Median, and Mode
+    Standard Deviation and Normal Distribution
+    Data Interpretation
+    Triangles
+    Polygons and Rectangular Solids
+    Circles and Cylinders
+    Coordinate Geometry
+    Mixed Geometry
+    Rates and Work
+    Probability, Combinatorics, and Overlapping Sets
+    Advanced Quant
+    Verbal Practice Sections
+    Verbal Practice Adaptive Sections
+    Quant Practice Sections
+    Quant Practice Adaptive Sections

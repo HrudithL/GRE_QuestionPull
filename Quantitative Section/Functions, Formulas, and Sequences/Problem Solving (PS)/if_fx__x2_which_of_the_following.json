@@ -1,0 +1,18 @@
+{
+  "question": "If \\(f(x) = x^2\\), which of the following is equal to \\(f(m + n) + f(m - n)\\)?\n(A) \\(m^2 + n^2\\)\n(B) \\(m^2 - n^2\\)\n(C) \\(2m^2 + 2n^2\\)\n(D) \\(2m^2 - 2n^2\\)\n(E) \\(m^2n^2\\)\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "\\(m^2 + n^2\\)",
+    "\\(m^2 - n^2\\)",
+    "\\(2m^2 + 2n^2\\)",
+    "\\(2m^2 - 2n^2\\)",
+    "\\(m^2n^2\\)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/if-f-x-x2-which-of-the-following-is-equal-to-f-m-n-10187.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

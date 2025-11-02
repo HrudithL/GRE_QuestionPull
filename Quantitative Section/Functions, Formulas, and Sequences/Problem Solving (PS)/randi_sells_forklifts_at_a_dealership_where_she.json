@@ -1,0 +1,18 @@
+{
+  "question": "Randi sells forklifts at a dealership where she makes a base salary of $2,000 per month, plus a commission equal to 5% of the selling price of the first 10 forklifts she sells that month, and 10% of the value of the selling price of any forklifts after that. If all forklifts have the same sale price, s, which of the choices below represents Randi’s monthly pay, P, as a function of number of forklifts sold, f, in months in which she sells more than 10 forklifts? (Assume Randi’s pay is made up entirely of base salary and commission, and no deductions are taken from this pay.)\n(A) P = 2,000 + 0.05sf + 0.10sf\n(B) P = 2,000 + 0.05sf + 0.10s(f – 10)\n(C) P = 2,000 + 0.05s + 0.10s(f – 10)\n(D) P = 2,000 + 0.5s + 0.10sf – 10\n(E) P = 2,000 + 0.5s + 0.10s(f – 10)\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "P = 2,000 + 0.05sf + 0.10sf",
+    "P = 2,000 + 0.05sf + 0.10s(f – 10)",
+    "P = 2,000 + 0.05s + 0.10s(f – 10)",
+    "P = 2,000 + 0.5s + 0.10sf – 10",
+    "P = 2,000 + 0.5s + 0.10s(f – 10)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/randi-sells-forklifts-at-a-dealership-where-she-makes-a-base-10472.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

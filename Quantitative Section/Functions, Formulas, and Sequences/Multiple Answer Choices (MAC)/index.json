@@ -1,0 +1,18 @@
+{
+  "category": "Multiple Answer Choices (MAC)",
+  "total_questions": 2,
+  "questions": [
+    {
+      "filename": "for_which_of_the_following_functions_fx_is.json",
+      "url": "https://gre.myprepclub.com/forum/for-which-of-the-following-functions-f-x-is-f-a-b-f-a-10188.html",
+      "question_preview": "For which of the following functions f(x) is \\(f(a + b) = f(a) + f(b)\\)?\n(A) \\(f(x) = x^2\\)\n(B) \\(f(",
+      "question_type": "Multiple Answer Choices (MAC)"
+    },
+    {
+      "filename": "if_f2a__2fa_and_f6__11.json",
+      "url": "https://gre.myprepclub.com/forum/if-f-2a-2f-a-and-f-6-11-what-is-the-value-of-f-10191.html",
+      "question_preview": "If \\(f(2a) = 2f(a)\\) and \\(f(6) = 11\\), what is the value of f(24)?\n(A) 22\n(B) 24\n(C) 44\n(D) 66\n(E) ",
+      "question_type": "Multiple Answer Choices (MAC)"
+    }
+  ]
+}

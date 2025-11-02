@@ -1,0 +1,12 @@
+{
+  "category": "Numeric Entry (NE)",
+  "total_questions": 1,
+  "questions": [
+    {
+      "filename": "if_there_are_7_whole_bananas_14_whole.json",
+      "url": "https://gre.myprepclub.com/forum/if-there-are-7-whole-bananas-14-whole-strawberries-and-no-10447.html",
+      "question_preview": "If there are 7 whole bananas, 14 whole strawberries, and no other fruit in a basket, what is the rat",
+      "question_type": "Numeric Entry (NE)"
+    }
+  ]
+}

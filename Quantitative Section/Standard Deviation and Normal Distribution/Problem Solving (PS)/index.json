@@ -1,0 +1,18 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 2,
+  "questions": [
+    {
+      "filename": "set_s_5_10_15_if_the_number.json",
+      "url": "https://gre.myprepclub.com/forum/set-s-5-10-15-if-the-number-15-were-removed-from-set-s-10152.html",
+      "question_preview": "Set S: {5, 10, 15}\nIf the number 15 were removed from set S and replaced with the number 1,000, whic",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "on_a_given_math_test_with_a_maximum.json",
+      "url": "https://gre.myprepclub.com/forum/on-a-given-math-test-with-a-maximum-possible-score-of-10178.html",
+      "question_preview": "On a given math test with a maximum possible score of 100 points, the vast majority of the 149 stude",
+      "question_type": "Unknown"
+    }
+  ]
+}

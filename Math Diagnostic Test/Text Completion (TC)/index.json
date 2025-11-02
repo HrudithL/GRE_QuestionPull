@@ -1,0 +1,42 @@
+{
+  "category": "Text Completion (TC)",
+  "total_questions": 6,
+  "questions": [
+    {
+      "filename": "this_question_is_a_part_of_the_5_62.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-in-interviews-despots-are-often-surprisingly-2087.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nIn interviews,",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_63.json",
+      "url": "https://gre.myprepclub.com/forum/the-successful-tech-company-faces-an-2089.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nThe successful",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_64.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-4-newborn-babies-are-perfectly-i-as-2161.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nNewborn babies",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_65.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-6-his-theory-purported-that-proper-enjoyment-of-art-2163.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nHis theory pur",
+      "question_type": "Text Completion"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_66.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-during-an-economic-depression-it-is-common-for-food-2096.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nDuring an econ",
+      "question_type": "Problem Solving (PS)"
+    },
+    {
+      "filename": "this_question_is_a_part_of_the_5_67.json",
+      "url": "https://gre.myprepclub.com/forum/qotd-bedbug-infestations-have-been-a-problem-in-major-citi-2097.html",
+      "question_preview": "This question is a part of The 5 lb. Book of GRE Practice Problems (2nd Ed.) - VERBAL\nBedbug infesta",
+      "question_type": "Problem Solving (PS)"
+    }
+  ]
+}

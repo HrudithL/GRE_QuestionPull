@@ -1,0 +1,18 @@
+{
+  "question": "If \\(\\frac{1}{2}f(x) = f(\\frac{x}{2})\\) , which of the following is true for all values of f(x)?\n(A) \\(f(x) = 2x + 2\\)\n(B) \\(f(x) = 13x\\)\n(C) \\(f(x) = x^2\\)\n(D) \\(f(x) = x - 10\\)\n(E) \\(f(x) =\\sqrt{x-4}\\)\nShow\nHide\nAnswer\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "\\(f(x) = 2x + 2\\)",
+    "\\(f(x) = 13x\\)",
+    "\\(f(x) = x^2\\)",
+    "\\(f(x) = x - 10\\)",
+    "\\(f(x) =\\sqrt{x-4}\\)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nShowHide Answer\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nOfficial Answer\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\tOfficial Answer and Stats are available only to registered users. Register/Login.\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/if-f-x-f-which-of-the-following-is-true-for-all-values-10192.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

@@ -1,0 +1,14 @@
+{
+  "question": "The sequence P is defined by \\(P_n = 10(P_{n - 1}) - 2\\) for each integer n ≥ 2. If \\(P_1 = 2\\), what is the value of \\(P_4\\)?\n_________________\nSandy\nIf you found this post useful, please let me know by pressing the Kudos Button\nTry our free Online GRE Test\nSignature Read More",
+  "answer_choices": [
+    "If \\(P_1 = 2\\), what is the value of \\(P_4\\)?Show: :: OA1778\n_________________\n\nSandyIf you found this post useful, please let me know by pressing the Kudos ButtonTry our free Online GRE Test\nSignature Read More"
+  ],
+  "correct_answer": "d",
+  "explanation": "",
+  "question_type": "Problem Solving (PS)",
+  "source_url": "https://gre.myprepclub.com/forum/the-sequence-p-is-defined-by-pn-10-pn-1-2-for-each-in-10201.html",
+  "main_category": "Quantitative Section",
+  "subsection": "Functions, Formulas, and Sequences",
+  "category": "Functions, Formulas, and Sequences > Problem Solving (PS)",
+  "detected_type": "Problem Solving (PS)"
+}

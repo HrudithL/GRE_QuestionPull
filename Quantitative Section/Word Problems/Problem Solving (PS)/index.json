@@ -1,0 +1,42 @@
+{
+  "category": "Problem Solving (PS)",
+  "total_questions": 6,
+  "questions": [
+    {
+      "filename": "a_rectangular_public_park_has_an_area_of.json",
+      "url": "https://gre.myprepclub.com/forum/a-rectangular-public-park-has-an-area-of-3-600-square-feet-9427.html",
+      "question_preview": "A rectangular public park has an area of 3,600 square feet. It is surrounded on three sides by a cha",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "if_deepak_pays_30_of_his_income_in.json",
+      "url": "https://gre.myprepclub.com/forum/if-deepak-pays-30-of-his-income-in-taxes-and-his-take-home-9430.html",
+      "question_preview": "If Deepak pays 30% of his income in taxes and his take-home pay after taxes is $2,800 per month, how",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "each_day_that_the_drama_club_washes_cars.json",
+      "url": "https://gre.myprepclub.com/forum/each-day-that-the-drama-club-washes-cars-to-raise-money-9429.html",
+      "question_preview": "Each day that the drama club washes cars to raise money, the club’s only expense is a fixed amount f",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "marisa_has_40_more_than_ben_and_ben.json",
+      "url": "https://gre.myprepclub.com/forum/marisa-has-40-more-than-ben-and-ben-has-one-third-as-much-9642.html",
+      "question_preview": "Marisa has $40 more than Ben, and Ben has one-third as much money as Marisa. How many dollars does B",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "beth_is_12_years_younger_than_alan_in.json",
+      "url": "https://gre.myprepclub.com/forum/beth-is-12-years-younger-than-alan-in-20-years-beth-will-b-9643.html",
+      "question_preview": "Beth is 12 years younger than Alan. In 20 years, Beth will be 80% of Alan’s age. How old is Beth now",
+      "question_type": "Unknown"
+    },
+    {
+      "filename": "marisol_is_twice_as_old_as_vikram_eight.json",
+      "url": "https://gre.myprepclub.com/forum/marisol-is-twice-as-old-as-vikram-eight-years-ago-marisol-9644.html",
+      "question_preview": "Marisol is twice as old as Vikram. Eight years ago, Marisol was 6 years younger than three times Vik",
+      "question_type": "Unknown"
+    }
+  ]
+}

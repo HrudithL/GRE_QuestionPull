@@ -1,0 +1,120 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 19,
+  "questions": [
+    {
+      "filename": "7y___3_leq_4y__9_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/7y-3-4y-10079.html",
+      "question_preview": "\\(7y - 3 \\leq 4y + 9\\)\nQuantity A\nQuantity B\ny\n4\nA) Quantity A is greater.\nB) Quantity B is greater.",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "3_x___4__16_quantity_a.json",
+      "url": "https://gre.myprepclub.com/forum/3-x-10080.html",
+      "question_preview": "\\(3 |x - 4| = 16\\)\nQuantity A\nQuantity B\n\\(x\\)\n\\(\\frac{28}{3}\\)\nA) Quantity A is greater.\nB) Quantit",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "3x__7_geq_9_025y__3.json",
+      "url": "https://gre.myprepclub.com/forum/3-x-10084.html",
+      "question_preview": "\\(3(x – 7) \\geq 9\\)\n\\(0.25y – 3 \\leq 1\\)\nQuantity A\nQuantity B\n\\(x\\)\n\\(y\\)\nA) Quantity A is greater.",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__geq_6_x__y2.json",
+      "url": "https://gre.myprepclub.com/forum/x-10089.html",
+      "question_preview": "\\(|–x | \\geq 6\\)\n\\(x * y^2 < 0\\) and y is an integer.\nQuantity A\nQuantity B\nx\n- 4\nA) Quantity A is g",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x3_64_quantity_a_quantity_b__x__x.json",
+      "url": "https://gre.myprepclub.com/forum/x-10329.html",
+      "question_preview": "\\(|x^3|< 64\\)\nQuantity A\nQuantity B\n\\(-x\\)\n\\(-|x|\\)\nA) Quantity A is greater.\nB) Quantity B is great",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "3__3x__2x_quantity_a_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/3-3x-2x-10331.html",
+      "question_preview": "\\(|3 + 3x| < –2x\\)\nQuantity A\nQuantity B\n\\(|x|\\)\n\\(4\\)\nA) Quantity A is greater.\nB) Quantity B is gr",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x_is_an_integer_such_that___xx.json",
+      "url": "https://gre.myprepclub.com/forum/x-is-an-integer-such-that-x-x-10333.html",
+      "question_preview": "x is an integer such that \\(- x|x| ≥ 4\\).\nQuantity A\nQuantity B\nx\n2\nA) Quantity A is greater.\nB) Qua",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__1_and_y__0_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/x-1-and-y-10334.html",
+      "question_preview": "\\(|x| < 1\\) and \\(y > 0\\)\nQuantity A\nQuantity B\n|x| + y\nxy\nA) Quantity A is greater.\nB) Quantity B i",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__y_and_x__y.json",
+      "url": "https://gre.myprepclub.com/forum/x-y-and-x-y-10335.html",
+      "question_preview": "\\(|x| > |y|\\) and \\(x + y > 0\\)\nQuantity A\nQuantity B\ny\nx\nA) Quantity A is greater.\nB) Quantity B is",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x_and_y_are_integers_such_that_xy.json",
+      "url": "https://gre.myprepclub.com/forum/x-and-y-are-integers-such-that-x-y-9-0-and-y-10336.html",
+      "question_preview": "x and y are integers such that \\(|x|(y) + 9 < 0\\) and \\(|y| ≤ 1\\).\nQuantity A\nQuantity B\nx\n-9\nA) Qua",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "p__k__p__k_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/p-k-p-k-10338.html",
+      "question_preview": "\\(p + |k| > |p| + k\\)\nQuantity A\nQuantity B\np\nk\nA) Quantity A is greater.\nB) Quantity B is greater.\n",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__y__x__z_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/x-y-x-z-10339.html",
+      "question_preview": "\\(|x| + |y| > |x + z|\\)\nQuantity A\nQuantity B\ny\nz\nA) Quantity A is greater.\nB) Quantity B is greater",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "fracab__1_and_ab0_b_neq_0.json",
+      "url": "https://gre.myprepclub.com/forum/a-b-1-and-a-b-10340.html",
+      "question_preview": "\\(\\frac{|a|}{b} > 1\\) and \\(a+b<0\\)\n\\(b \\neq 0\\)\nQuantity A\nQuantity B\na\n0\nA) Quantity A is greater.",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x_y__x_y_quantity_a_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/x-y-x-y-10347.html",
+      "question_preview": "\\(|x| y > x |y|\\)\nQuantity A\nQuantity B\n\\((x + y)^2\\)\n\\((x – y)^2\\)\nA) Quantity A is greater.\nB) Qua",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "1__a__0__a.json",
+      "url": "https://gre.myprepclub.com/forum/1-a-0-a-b-10349.html",
+      "question_preview": "\\(–1 < a < 0 < |a| < b < 1\\)\nQuantity A\nQuantity B\n\\((\\frac{a^2 \\sqrt{b}}{\\sqrt{a}})^2\\)\n\\(\\frac{ab^",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__y__z_quantity_a_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/x-y-z-10356.html",
+      "question_preview": "\\(x > |y| > z\\)\nQuantity A\nQuantity B\n\\(x+y\\)\n\\(|y| + z\\)\nA) Quantity A is greater.\nB) Quantity B is",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "x__y__10_x__0.json",
+      "url": "https://gre.myprepclub.com/forum/x-y-10364.html",
+      "question_preview": "\\(|x + y| = 10\\)\n\\(x ≥ 0\\)\n\\(z < y – x\\)\nQuantity A\nQuantity B\nz\n10\nA) Quantity A is greater.\nB) Qua",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "0__a__fracb2__9_quantity.json",
+      "url": "https://gre.myprepclub.com/forum/0-a-b-10365.html",
+      "question_preview": "\\(0 < a < \\frac{b}{2} < 9\\)\nQuantity A\nQuantity B\n\\(9-a\\)\n\\(\\frac{b}{2} - a\\)\nA) Quantity A is great",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "for_all_values_of_the_integer_p_such.json",
+      "url": "https://gre.myprepclub.com/forum/for-all-values-of-the-integer-p-such-that-1-9-p-10366.html",
+      "question_preview": "For all values of the integer p such that \\(1.9 < |p| < 5.3\\), the function \\(f(p) = p^2\\) .\nQuantit",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}

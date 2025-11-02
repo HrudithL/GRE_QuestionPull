@@ -1,0 +1,36 @@
+{
+  "category": "Quantitative Comparison (QCQ)",
+  "total_questions": 5,
+  "questions": [
+    {
+      "filename": "the_ratio_of_men_to_women_in_a.json",
+      "url": "https://gre.myprepclub.com/forum/the-ratio-of-men-to-women-in-a-garden-club-is-5-to-10441.html",
+      "question_preview": "The ratio of men to women in a garden club is 5 to 4.\nQuantity A\nQuantity B\nThe smallest possible nu",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "in_a_group_of_adults_the_ratio_of.json",
+      "url": "https://gre.myprepclub.com/forum/in-a-group-of-adults-the-ratio-of-women-to-men-is-5-to-6-w-10442.html",
+      "question_preview": "In a group of adults, the ratio of women to men is 5 to 6, while the ratio of left-handed people to ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "party_cranberry_is_3_parts_cranberry_juice_and.json",
+      "url": "https://gre.myprepclub.com/forum/party-cranberry-is-3-parts-cranberry-juice-and-1-part-seltze-10443.html",
+      "question_preview": "Party Cranberry is 3 parts cranberry juice and 1 part seltzer. Fancy Lemonade is 1 part lemon juice ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_ratio_of_16_to_g_is_equal.json",
+      "url": "https://gre.myprepclub.com/forum/the-ratio-of-16-to-g-is-equal-to-the-ratio-of-g-to-10444.html",
+      "question_preview": "The ratio of 16 to g is equal to the ratio of g to 49.\nQuantity A\nQuantity B\ng\n\\(28\\)\nA) Quantity A ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    },
+    {
+      "filename": "the_total_cost_of_3_bananas_2_apples.json",
+      "url": "https://gre.myprepclub.com/forum/the-total-cost-of-3-bananas-2-apples-and-1-mango-is-10446.html",
+      "question_preview": "The total cost of 3 bananas, 2 apples, and 1 mango is $3.50. The total cost of 3 bananas, 2 apples, ",
+      "question_type": "Quantitative Comparison (QCQ)"
+    }
+  ]
+}
